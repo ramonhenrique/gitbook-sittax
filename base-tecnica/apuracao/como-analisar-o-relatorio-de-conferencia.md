@@ -17,8 +17,6 @@ Para acessar o Relatório de Conferência, siga este passo a passo:
 
 Abaixo, um print com a indicação visual do caminho:
 
-<figure><img src="https://edu.sittax.com.br/~gitbook/image?url=https%3A%2F%2F2732700624-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FrtysZumDLSvHwYCwzJKm%252Fuploads%252FLWPAzFMC3RPEoAr2Cx28%252FRelatorio%2520de%2520conferencia.png%3Falt%3Dmedia%26token%3Dd201f627-9254-4c28-8de3-eb857c0880d6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=24ab17cc&#x26;sv=2" alt=""><figcaption></figcaption></figure>
-
 ### Como utilizar o relatório para validar as apurações? <a href="#como-utilizar-o-relatorio-para-validar-as-apuracoes" id="como-utilizar-o-relatorio-para-validar-as-apuracoes"></a>
 
 **Entendendo a estrutura do relatório:**

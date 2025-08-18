@@ -44,6 +44,7 @@
   * [Quebra de Sequência](base-tecnica/apuracao/quebra-de-sequencia.md)
   * [Gerar apuração em lote](base-tecnica/apuracao/gerar-apuracao-em-lote.md)
   * [Como analisar o relatório de conferência](base-tecnica/apuracao/como-analisar-o-relatorio-de-conferencia.md)
+  * [Apuração por XML](base-tecnica/apuracao/apuracao-por-xml.md)
 * [SPED E LIVROS FISCAIS](base-tecnica/sped-e-livros-fiscais/README.md)
   * [Livros/SPED Fiscal](base-tecnica/sped-e-livros-fiscais/livros-sped-fiscal.md)
 * [DIFAL](base-tecnica/difal/README.md)
