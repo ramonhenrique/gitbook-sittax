@@ -8,7 +8,7 @@ O painel principal foi criado com o intuito de demonstrar as informações sobre
 
 Assim que entrar na ferramenta, esta é a primeira tela apresentada: &#x20;
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Informações do Painel &#x20;
 
@@ -22,11 +22,11 @@ Algumas das funcionalidades são: &#x20;
 
 Na imagem abaixo é possível ver alguns filtros clicáveis, ao clicar em algum deles, o painel principal mudará para um modo de visualização diferente. Para retornar a visualizar o painel principal, apenas clique no mesmo filtro que foi clicado.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 A imagem abaixo demonstra a tabela da pagina principal, o que está contornado de verde é um campo de pesquisa, onde você pode pesquisar a empresa pelo nome da empresa para poder filtrar na tabela. O que está contornado de vermelho é o titulo de cada coluna da tabela.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 * "Empresa" é a coluna do nome da empresa.
 * "Produtos" é o valor de receita relacionada a produtos da empresa.
@@ -51,7 +51,7 @@ Ao clicar no botão "Ações", será exibido opções que podem estar sendo exec
 
 A imagem a seguir destaca o **painel de navegação superior** da ferramenta, onde estão concentradas as principais funcionalidades operacionais utilizadas no dia a dia da contabilidade. Estes botões permitem acesso rápido a ações como apuração de impostos, consulta de DIFAL, importação de arquivos e acompanhamento de tarefas em andamento.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Apurar:** Acesso à tela de apuração dos tributos e receitas
 * **DIFAL:** Direciona para a área específica do DIFAL, onde é possível acompanhar e validar os valores devidos nas operações interestaduais

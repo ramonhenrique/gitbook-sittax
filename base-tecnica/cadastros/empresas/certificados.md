@@ -1,6 +1,6 @@
 # Certificados
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Neste painel, é possível adicionar o certificado digital ou por procuração dentro da empresa. No início do painel, você encontrará uma visualização dos certificados ativos na base (Item 1), que descreve a data de importação, a data de validade do certificado e se ele é por procuração ou digital (A1).
 
