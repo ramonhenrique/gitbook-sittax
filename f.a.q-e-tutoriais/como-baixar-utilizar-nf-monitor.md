@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Como baixar/utilizar NF-Monitor?
 
 ## O que é NF-Monitor?
