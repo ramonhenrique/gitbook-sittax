@@ -59,3 +59,4 @@
 
 * [Como funciona o Simples Nacional?](f.a.q-e-tutoriais/como-funciona-o-simples-nacional.md)
 * [Como faço para excluir/inativar uma empresa cadastrada?](f.a.q-e-tutoriais/como-faco-para-excluir-inativar-uma-empresa-cadastrada.md)
+* [Como baixar/utilizar NF-Monitor?](f.a.q-e-tutoriais/como-baixar-utilizar-nf-monitor.md)

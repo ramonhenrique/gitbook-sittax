@@ -44,7 +44,7 @@ A tela também exibe informações detalhadas sobre o faturamento da empresa:\
 Por fim, a tela disponibiliza **gráficos comparativos** que mostram a diferença entre:\
 
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Os impostos calculados diretamente a partir das notas fiscais emitidas pelo cliente.
 * Os impostos recalculados com base na análise da Sittax.
@@ -62,7 +62,7 @@ No painel de auditoria, é disponibilizado alguns avisos e advertências sobre a
 Esses avisos, são os mesmo que aparecem no painel do contador ao clicar em uma empresa, porém, aplicados para o menu de apurações, para visualizar o aviso por completo basta passar o cursor em cima dos avisos. Os avisos consistem em:\
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Certificado**
    * Tem como objetivo mostrar a situação do certificado digital e sua data de vencimento
@@ -92,24 +92,24 @@ Para aplicar as correções sugeridas, basta acessar Regras Tributárias -> Exce
 Na parte inferior da tela, existe uma barra de operações que concentra todas as ações disponíveis para o usuário dentro da apuração XML. Essas operações são:\
 
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   **Seleção de Matriz/Filial**: permite visualizar as apurações da matriz e de eventuais filiais, apenas para consulta dos valores. Importante destacar que o PGDAS das filiais é sempre gerado diretamente pela matriz.\
 
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 *   **Seleção de Anexo**: possibilita filtrar os dados da apuração para visualizar apenas os valores referentes a um anexo específico.\
 
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 *   **Guia DAS e Novo DAS**: nesta opção é possível baixar uma guia já gerada (Guia DAS) ou emitir um novo arquivo da guia do PGDAS já transmitido (Novo DAS).\
 
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 *   **Extrato Declaração e Recibo**: disponibiliza os documentos auxiliares da apuração. Após a transmissão, todos ficam disponíveis para download direto ao clicar.\
 
 
-    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 *   **Relatório de Conferência:** Baixa o Relatório de Conferência com todos os dados da Apuração, para auditoria.\
 
 
@@ -117,7 +117,7 @@ Na parte inferior da tela, existe uma barra de operações que concentra todas a
 *   **Acessórias**: caso exista integração com o sistema Acessórias, essa função dispara os dados da apuração diretamente para a API da plataforma.\
 
 
-    <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 *   **Recalcular**: reprocessa todos os dados da apuração, atualizando e regenerando os valores.\
 
 

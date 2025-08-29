@@ -50,7 +50,7 @@ A aba **Calcula FECOEP/PROTEGE** permite configurar exceções fiscais em que o 
 
 ## Calcula Benefício:
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A aba **Calcula Benefício** permite cadastrar exceções de cálculo de DIFAL onde há **redução de alíquota** ou outro tipo de **benefício fiscal** concedido por legislação estadual.
 
@@ -83,11 +83,11 @@ A aba **Calcula Benefício** permite cadastrar exceções de cálculo de DIFAL o
 
 ## Importar Exceção DIFAL:
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na aba **Importar Exceção DIFAL**, você pode importar diversas exceções de cálculo de DIFAL em lote por meio de uma planilha modelo. O acesso a planilha modelo se encontra neste botão "Planilha Modelo", no qual se encontra no fim da página **Importar Exceção DIFAL.**
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Planilha Modelo:
 

@@ -51,7 +51,7 @@ Ao clicar no botão "Ações", será exibido opções que podem estar sendo exec
 
 A imagem a seguir destaca o **painel de navegação superior** da ferramenta, onde estão concentradas as principais funcionalidades operacionais utilizadas no dia a dia da contabilidade. Estes botões permitem acesso rápido a ações como apuração de impostos, consulta de DIFAL, importação de arquivos e acompanhamento de tarefas em andamento.
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Apurar:** Acesso à tela de apuração dos tributos e receitas
 * **DIFAL:** Direciona para a área específica do DIFAL, onde é possível acompanhar e validar os valores devidos nas operações interestaduais
