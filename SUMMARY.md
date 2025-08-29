@@ -55,6 +55,7 @@
   * [Gerar Arquivo](base-tecnica/integracoes/gerar-arquivo.md)
   * [Configuração Domínio x Sittax](base-tecnica/integracoes/configuracao-dominio-x-sittax.md)
 
-## FAQ E TUTORIAIS
+## F.A.Q E TUTORIAIS
 
-* [Como funciona o Simples Nacional?](faq-e-tutoriais/como-funciona-o-simples-nacional.md)
+* [Como funciona o Simples Nacional?](f.a.q-e-tutoriais/como-funciona-o-simples-nacional.md)
+* [Como faço para excluir/inativar uma empresa cadastrada?](f.a.q-e-tutoriais/como-faco-para-excluir-inativar-uma-empresa-cadastrada.md)
