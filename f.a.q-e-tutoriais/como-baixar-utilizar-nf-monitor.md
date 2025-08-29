@@ -38,7 +38,7 @@ Essa ferramenta tem como objetivo facilitar a importação dos arquivos XML de t
 
 #### Tela de Login NF-Monitor:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 > _**O Login do NF-Monitor refere-se ao mesmo Login que pode ser feito dentro da ferramenta Sittax.**_
 

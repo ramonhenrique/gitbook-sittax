@@ -60,3 +60,4 @@
 * [Como funciona o Simples Nacional?](f.a.q-e-tutoriais/como-funciona-o-simples-nacional.md)
 * [Como faço para excluir/inativar uma empresa cadastrada?](f.a.q-e-tutoriais/como-faco-para-excluir-inativar-uma-empresa-cadastrada.md)
 * [Como baixar/utilizar NF-Monitor?](f.a.q-e-tutoriais/como-baixar-utilizar-nf-monitor.md)
+* [Como posso verificar a fórmula utilizada no cálculo do DIFAL?](f.a.q-e-tutoriais/como-posso-verificar-a-formula-utilizada-no-calculo-do-difal.md)
