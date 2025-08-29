@@ -17,16 +17,16 @@ Essa ferramenta tem como objetivo facilitar a importação dos arquivos XML de t
 ## Como baixar o NF-Monitor:
 
 1. Acesse a aba **“NF-Monitor”** no sistema.
-2.  Clique em **“Download”** para iniciar o download do instalador.
+2. Clique em **“Download”** para iniciar o download do instalador.
 
-    <figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
 **OBSERVAÇÕES:**&#x20;
 
 * Certifique-se de estar baixando a **versão mais recente** do programa.
-*   A versão atualizada pode ser identificada pela indicação **"Latest"** dentro da nota de atualização.
+* A versão atualizada pode ser identificada pela indicação **"Latest"** dentro da nota de atualização.
 
-    <figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
 ## Após a instalação, como abrir o NF-Monitor?
 
@@ -51,13 +51,13 @@ Essa ferramenta tem como objetivo facilitar a importação dos arquivos XML de t
 ### Etapa 1: Selecionar diretório
 
 1. Acesse o campo **"Selecionar Diretórios"**.
-2.  Clique em **“Selecionar diretórios para envio de notas”** para escolher uma pasta que contenha os arquivos XML das notas fiscais.
+2. Clique em **“Selecionar diretórios para envio de notas”** para escolher uma pasta que contenha os arquivos XML das notas fiscais.&#x20;
 
-    <figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 * Recomendação: selecione uma pasta que **centralize os XMLs de todas as empresas do escritório**.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
 * Após a seleção, o diretório será exibido no programa, permitindo iniciar a importação.
 
