@@ -13,7 +13,7 @@ Para realizar o DIFAL do Sittax, é necessário antes classificar os tipos de op
 [nota-fiscal-de-entrada.md](../importacao/nota-fiscal-de-entrada.md)
 {% endcontent-ref %}
 
-O cálculo do DIFAL (Diferencial de Alíquota) no Sittax é cálculado e visualizado nessa tela, processando os valores de diferentes tipos de entrada, créditos, valores de guia e a geração da Guia Difal dos estados de GO e MG.\
+O cálculo do DIFAL (Diferencial de Alíquota) no Sittax é cálculado e visualizado nessa tela, processando os valores de diferentes tipos de entrada, créditos, valores de guia e a geração da Guia Difal dos estados de GO, MG, MS, PR e SP.\
 \
 Tendo sua tela separada entre a apuração das notas de produtos e a apuração da guia, ao abrir a tela do cálculo difal, os seguintes painéis serão visualizados:
 
