@@ -53,6 +53,7 @@
   * [Tipo de Entrada](base-tecnica/integracoes/tipo-de-entrada.md)
   * [Gerar Arquivo](base-tecnica/integracoes/gerar-arquivo.md)
   * [Configuração Domínio x Sittax](base-tecnica/integracoes/configuracao-dominio-x-sittax.md)
+* [SITTAX AGENTE IA (WhatsApp)](base-tecnica/sittax-agente-ia-whatsapp.md)
 
 ## F.A.Q E TUTORIAIS
 
