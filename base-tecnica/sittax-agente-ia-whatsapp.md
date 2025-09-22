@@ -13,6 +13,33 @@ Ele foi desenvolvido para simplificar a experiência dos escritórios de contabi
 Com o Sittax GPT, clientes conseguem consultar informações, gerar documentos e executar rotinas fiscais diretamente pelo aplicativo de mensagens, de forma rápida e prática. \
 Basta enviar comandos no **WhatsApp** oficial da Sittax e o resultado será retornado em segundos.
 
+<h2 align="center">Cadastro do WhatsApp na plataforma.</h2>
+
+Para que o Agente de IA Sittax  funcione, é obrigatório que o **WhatsApp do usuário esteja cadastrado** dentro da plataforma Sittax Simples.\
+O agente de IA só responderá se o número que enviar mensagens estiver vinculado a um usuário válido dentro de um escritório.
+
+Para cadastrar o WhatsApp de um usuário:
+
+1.  Acesse o menu de **Cadastro de Usuários** no escritório.\
+
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+2. Edite ou crie o usuário que fará as solicitações.\
+
+3.  Preencha corretamente o campo de **WhatsApp**.\
+
+
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+4. Salve as alterações.
+
+Após o cadastro realizado, basta entrar em contato com o nosso whatsapp para acessar as funcionalidades:
+
+<h3 align="center"><em><mark style="background-color:$primary;"><strong>+55 62 99813-7718</strong></mark></em></h3>
+
 <h2 align="center"><strong>Funcionalidades</strong></h2>
 
 <h3 align="center">Declarações e DAS</h3>
@@ -73,7 +100,7 @@ Consultas de documentos fiscais (DANFE):
 
 ***
 
-<h3 align="center">Observações Técnicas</h3>
+<h2 align="center">Observações Técnicas</h2>
 
 * Sempre informar períodos no formato **MM/AAAA**.
 * Certificados devem estar válidos.
@@ -81,4 +108,3 @@ Consultas de documentos fiscais (DANFE):
 
 ***
 
-###
