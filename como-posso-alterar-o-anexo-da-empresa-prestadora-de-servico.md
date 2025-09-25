@@ -4,7 +4,7 @@
 
 * Para configurar corretamente o anexo da sua empresa prestadora de serviços, é essencial identificar o **Código de Serviço** utilizado nas notas fiscais emitidas. Para isso, acesse o **Relatório de Conferência** da empresa, que permite consultar quais códigos de serviço foram aplicados nas notas fiscais, possibilitando a validação das informações antes de seguir com a atualização.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 > _**Caso tenha dúvidas sobre como gerar o Relatório de Conferência, consulte a seção: "Como analisar o Relatório de Conferência?" disponível abaixo.**_
 
@@ -19,7 +19,7 @@
 1. Com a tela **Dados da Empresa** aberta, acesse a aba **Configuração de Anexo**.
 2.  Na aba **Configuração de Anexo**, localize o segundo campo de **Anexo** e preencha com a seguinte configuração:
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     _Anexo: Anexo IV - Prestadores de Serviço | Código de Serviço: (Insira o código de serviço)_
 

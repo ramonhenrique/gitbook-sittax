@@ -8,7 +8,7 @@
 2. Clique em **"Relatório"**.
 3.  Em seguida, clique em **"Extrato"**.
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Isso irá gerar o **download de uma planilha Excel** contendo todas as **compras interestaduais** que estão sendo consideradas no cálculo do DIFAL da empresa.
 
@@ -19,4 +19,4 @@
 3. Vá até as **últimas colunas** da planilha.
 4.  Localize a coluna **"Fórmula do Simples"**, onde estará visível a **fórmula utilizada** para o cálculo das compras interestaduais, juntamente com as respectivas operações.
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

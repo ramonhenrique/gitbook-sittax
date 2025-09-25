@@ -6,14 +6,12 @@
 
 Para redefinir a senha, siga estes passos:
 
-1. Clique na mensagem "Esqueceu sua senha?" localizada acima do botão de acesso.
+1.  Clique na mensagem "Esqueceu sua senha?" localizada acima do botão de acesso.
 
-<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+2.  O menu de recuperação de senha aparecerá. No campo indicado (Item 1 da imagem a seguir), digite o e-mail do usuário que deseja alterar a senha.
 
-2. O menu de recuperação de senha aparecerá. No campo indicado (Item 1 da imagem a seguir), digite o e-mail do usuário que deseja alterar a senha.
-
-<figure><img src="../../.gitbook/assets/Recuperar senha.png" alt=""><figcaption></figcaption></figure>
-
+    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 3. Clique no botão laranja "Enviar" (Item 2).
 
 Após isso, um e-mail será enviado para o endereço informado, permitindo a alteração da senha.\
@@ -32,9 +30,9 @@ Após clicar no botão do e-mail, você será redirecionado para a tela de alter
 Após clicar no botão do e-mail, você será redirecionado para a tela de alteração de senha. Nesta tela:
 
 1. Digite a nova senha no campo correspondente (Item 1).
-2. Confirme a nova senha no campo seguinte (Item 2).
+2.  Confirme a nova senha no campo seguinte (Item 2).
 
-<figure><img src="../../.gitbook/assets/Criar nova senha.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Atenção:** As senhas devem ser idênticas!
 
