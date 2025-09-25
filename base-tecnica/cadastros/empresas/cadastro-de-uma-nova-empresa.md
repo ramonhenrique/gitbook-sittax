@@ -4,11 +4,11 @@
 
 Para acessar a tela de empresas, basta acessar o menu de cadastros clicando no segundo ícone de cima (Item 1). Após isso, clique em "Empresas" para abrir o menu de empresas (Item 2). Desta maneira, o painel das empresas cadastradas será aberto:
 
-<figure><img src="https://edu.sittax.com.br/~gitbook/image?url=https%3A%2F%2F2688983956-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOLejyHkoluGzXQSWUsNa%252Fuploads%252FzAZDEDJgG3APHAkVbv7i%252Fimage.png%3Falt%3Dmedia%26token%3Df3341eb6-08a0-4ecb-844d-1f21ec8735c5&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8cccca41&#x26;sv=2" alt=""><figcaption><p>Acesso à tela de empresas.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
 Nesta tela é possível visualizar uma tabela com todas as empresas que foram cadastradas, a visualização é por tabela e mostra dados como: CNPJ, razão social, nome fantasia, UF, Município, Telefone e E-mail. Além da informação se o cadastro da empresa esta ativo ou inativo.
 
-<figure><img src="https://edu.sittax.com.br/~gitbook/image?url=https%3A%2F%2F2688983956-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOLejyHkoluGzXQSWUsNa%252Fuploads%252FrfzZiQeBqC9lAA2gvlFZ%252FCadastros-empresas.webp%3Falt%3Dmedia%26token%3D7013b369-e9e6-4ce4-b6ac-b462bb040a8b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=356f5c64&#x26;sv=2" alt=""><figcaption><p>Painel de empresas cadastradas.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -27,12 +27,15 @@ Este é o primeiro painel do cadastro de empresa, onde é possível cadastrar ma
 
 ### **2. Cadastro por Certificado Digital.** <a href="#id-2.-cadastro-por-certificado-digital" id="id-2.-cadastro-por-certificado-digital"></a>
 
-<figure><img src="https://edu.sittax.com.br/~gitbook/image?url=https%3A%2F%2F2688983956-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOLejyHkoluGzXQSWUsNa%252Fuploads%252F0XoLiP6KZe3oh1c7pdKH%252Fimage.png%3Falt%3Dmedia%26token%3D0471209f-e9e6-428e-969a-9d155b2124c0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ec5b1d91&#x26;sv=2" alt=""><figcaption><p>Cadastro por ceritificado A1 da Empresa.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 Este é o método mais seguro e recomendado, que consiste em importar o certificado digital para cadastrar a empresa.
 
 * Clique no botão central "Importe seus arquivos" (Item 1).
 * Um menu de busca será aberto para localizar o certificado desejado no computador. O certificado deve ser do tipo A1 e estar no formato: `nome senha123.pfx` ou `nome senha 123.pfx.` Caso necessário, basta editar o nome do arquivo no próprio computador e importar com o formato correto.
+
+> Agora, a ferramenta permite a inserção manual da **senha do certificado digital** diretamente no campo disponível na tela de **Cadastro da Empresa** (Item 2), caso o certificado não esteja no formato exigido pela aplicação.
+
 * Após selecionar o certificado com a senha dentro do nome, ele aparecerá no menu de envio logo abaixo, ficando pendente de envio (Item 2).
 * Para enviar, clique no botão laranja "Enviar" ao lado direito do certificado (Item 3) ou no botão "Enviar todos" acima (Item 4). Após isso, a empresa será cadastrada.
 
