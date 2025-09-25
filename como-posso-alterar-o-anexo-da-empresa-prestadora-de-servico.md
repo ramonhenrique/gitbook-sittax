@@ -30,7 +30,7 @@
 
 * Para realizar o enquadramento da empresa no **Anexo V** ou **Anexo III**, com base no percentual do **Fator R**, é necessário ativar a configuração específica para o Fator R no sistema. Essa configuração é essencial para que o cálculo e a definição do anexo sejam feitos corretamente conforme o regime tributário da empresa.
 
-> _**Caso tenha dúvidas sobre o funcionamento do Fator R na ferramenta, consulte a seção: "Fator R", disponível abaixo.**_
+> _**Caso tenha dúvidas sobre o funcionamento do Fator R na ferramenta, consulte a seção: "Fator R", disponível abaixo:**_
 
 {% content-ref url="base-tecnica/cadastros/empresas/fator-r.md" %}
 [fator-r.md](base-tecnica/cadastros/empresas/fator-r.md)
