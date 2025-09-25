@@ -58,8 +58,8 @@
 ## F.A.Q E TUTORIAIS
 
 * [Como funciona o Simples Nacional?](f.a.q-e-tutoriais/como-funciona-o-simples-nacional.md)
-* [Como faço para excluir/inativar uma empresa cadastrada?](f.a.q-e-tutoriais/como-faco-para-excluir-inativar-uma-empresa-cadastrada.md)
 * [Como analisar o Relatório de Conferência?](f.a.q-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md)
+* [Como faço para excluir/inativar uma empresa cadastrada?](f.a.q-e-tutoriais/como-faco-para-excluir-inativar-uma-empresa-cadastrada.md)
 * [Como baixar/utilizar NF-Monitor?](f.a.q-e-tutoriais/como-baixar-utilizar-nf-monitor.md)
 * [Como posso verificar a fórmula utilizada no cálculo do DIFAL?](f.a.q-e-tutoriais/como-posso-verificar-a-formula-utilizada-no-calculo-do-difal.md)
 
@@ -68,3 +68,4 @@
 * [Não foi possível calcular o RBT12: o que fazer?](nao-foi-possivel-calcular-o-rbt12-o-que-fazer.md)
 * [Não estou conseguindo transmitir a apuração das empresas. O que pode ser?](nao-estou-conseguindo-transmitir-a-apuracao-das-empresas.-o-que-pode-ser.md)
 * [Como posso alterar o anexo da empresa prestadora de serviço?](como-posso-alterar-o-anexo-da-empresa-prestadora-de-servico.md)
+* [Classifiquei as notas de entrada, mas o DIFAL ainda não está sendo calculado. O que fazer?](classifiquei-as-notas-de-entrada-mas-o-difal-ainda-nao-esta-sendo-calculado.-o-que-fazer.md)
