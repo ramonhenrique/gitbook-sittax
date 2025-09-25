@@ -67,3 +67,4 @@
 
 * [Não foi possível calcular o RBT12: o que fazer?](nao-foi-possivel-calcular-o-rbt12-o-que-fazer.md)
 * [Não estou conseguindo transmitir a apuração das empresas. O que pode ser?](nao-estou-conseguindo-transmitir-a-apuracao-das-empresas.-o-que-pode-ser.md)
+* [Como posso alterar o anexo da empresa prestadora de serviço?](como-posso-alterar-o-anexo-da-empresa-prestadora-de-servico.md)
