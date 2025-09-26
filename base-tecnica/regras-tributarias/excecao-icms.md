@@ -14,7 +14,7 @@ Alimentada tanto pela tela de sugestões do próprio Sittax quanto pela adição
 Ao abrir o painel de Exceção ICMS, o seguinte menu será mostrado:\
 
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
 1.  **Visualização de Exceções Atuais**
 
@@ -65,7 +65,7 @@ Ao abrir o painel de Exceção ICMS, o seguinte menu será mostrado:\
 Este método é voltado para o cadastro em massa de regras de ICMS. Siga os passos abaixo para realizar o cadastro:\
 
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
 1. **Baixar Planilha Modelo**
    * No final da página do painel de cadastro, clique no botão amarelo "Planilha Modelo" (Item 1).
@@ -83,12 +83,12 @@ Este método é voltado para o cadastro em massa de regras de ICMS. Siga os pass
 
 ***
 
-## Sugestão Exceção ICMS
+## Sugestão
 
 Nessa tela, é possível ver as regras sugeridas pelo Sittax, essas regras são formuladas baseadas nas notas já importadas ao sistema e na configuração da empresa (UF, Cidade, CNAEs, etc..). Ao ser definida uma sugestão do sistema, ela irá aparecer no seguinte painel:\
 
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 Neste painel (Item 1), são exibidas as sugestões de regras de ICMS que ainda não foram importadas e estão pendentes. Ele mostra:
 
@@ -102,6 +102,30 @@ Neste painel (Item 1), são exibidas as sugestões de regras de ICMS que ainda n
 Para acatar uma sugestão e transformá-la em uma regra:
 
 1. Marque as sugestões que deseja incorporar.
-2. Clique no botão "Importar Exceções" (Item 2).
+2. Clique no botão "Importar Exceções do ICMS" (Item 2).
 
 Após a importação, essas sugestões se tornam regras e podem ser validadas no primeiro menu "Exceção ICMS".
+
+***
+
+## Não Acatadas
+
+A aba **“Não Acatadas”** tem como objetivo permitir ao usuário **controlar e desconsiderar determinados NCMs** da apuração de Substituição Tributária de um cliente específico.
+
+<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+
+Essa funcionalidade é especialmente útil em situações em que determinados produtos, embora estejam configurados com S.T. na origem, **não devem ser considerados na apuração** do contribuinte, seja por entendimento fiscal, particularidade da operação, regime tributário ou orientação do cliente.
+
+#### **Como funciona:**
+
+* Ao incluir um NCM na aba **“Não Acatadas”**, o sistema **desconsidera automaticamente** esse código de mercadoria durante o processo de apuração da Substituição Tributária para o cliente em questão.
+* Essa ação **não afeta o lançamento contábil ou escritural da nota**, apenas impacta o cálculo tributário da S.T. no módulo de apuração.
+
+#### **Quando utilizar:**
+
+Essa funcionalidade pode ser utilizada, por exemplo, nos seguintes casos:
+
+* Produtos que, por interpretação da legislação vigente ou orientação do cliente, **não são considerados sujeitos à substituição tributária**, mesmo que o fornecedor os tenha destacado.
+* Situações em que a apuração correta demanda uma **exclusão pontual e controlada** de NCMs para fins de S.T.
+
+A aba **“Não Acatadas”** deve ser utilizada com **cautela e validação técnica**, preferencialmente sob orientação da contabilidade ou do departamento fiscal responsável.
