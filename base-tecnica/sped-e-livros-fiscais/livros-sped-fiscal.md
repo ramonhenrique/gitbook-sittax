@@ -37,8 +37,8 @@ Após efetuar essa operação, o comando será replicado para todas as empresas 
 
 Os downloads dos arquivos dessa aba (tanto dos livros fiscais como do SPED fiscal) será visualizado no menu de downloads, que fica no canto superior direito da tela, no cabeçalho da ferramenta:
 
-<figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar no ícone demarcado na imagem, o menu de download será mostrado, nele estarão todos os arquivos gerados pelo Sittax prontos para o download, basta clicar no ícone (Item 1) e ele será baixado:
 
-<figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
