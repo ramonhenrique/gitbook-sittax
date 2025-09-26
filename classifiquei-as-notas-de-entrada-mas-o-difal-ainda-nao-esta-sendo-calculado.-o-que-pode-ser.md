@@ -1,4 +1,4 @@
-# Classifiquei as notas de entrada, mas o DIFAL ainda não está sendo calculado. O que fazer?
+# Classifiquei as notas de entrada, mas o DIFAL ainda não está sendo calculado. O que pode ser?
 
 Um fator importante que é preciso ser validado no processo de classificação das notas fiscais de entrada seria se as **datas de entradas estão preenchidas sobre as notas fiscais de entrada importadas para a empresa.**
 
@@ -12,7 +12,7 @@ Um fator importante que é preciso ser validado no processo de classificação d
 
 Caso você não queira esperar este prazo e queira antecipar a inserção das informações de **Datas de Entrada**, siga o seguinte procedimento a seguir:
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Acesse a tela **Nota Fiscal de Entrada**
 2. Marque todas as notas de entrada importadas
