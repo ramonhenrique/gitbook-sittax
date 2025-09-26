@@ -8,11 +8,11 @@ Essa base de conhecimento Empresas, tem como objetivo mostrar todas as abas e op
 
 Para acessar a tela de empresas, basta acessar o menu de cadastros clicando no segundo ícone de cima (Item 1). Após isso, clique em "Empresas" para abrir o menu de empresas (Item 2). Desta maneira, o painel das empresas cadastradas será aberto:
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption><p>Acesso à tela de empresas.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Nesta tela é possível visualizar uma tabela com todas as empresas que foram cadastradas, a visualização é por tabela e mostra dados como: CNPJ, razão social, nome fantasia, UF, Município, Telefone e E-mail. Além da informação se o cadastro da empresa esta ativo ou inativo.
 
-<figure><img src="../../../.gitbook/assets/Cadastros-empresas.webp" alt=""><figcaption><p>Painel de empresas cadastradas.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (240).png" alt=""><figcaption><p>Painel de empresas cadastradas.</p></figcaption></figure>
 
 ***
 

@@ -32,7 +32,7 @@ Após clicar no botão do e-mail, você será redirecionado para a tela de alter
 1. Digite a nova senha no campo correspondente (Item 1).
 2.  Confirme a nova senha no campo seguinte (Item 2).
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Atenção:** As senhas devem ser idênticas!
 

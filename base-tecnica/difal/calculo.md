@@ -19,14 +19,14 @@ Tendo sua tela separada entre a apuração das notas de produtos e a apuração 
 
 ### Produtos
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Nesse painel, será contabilizado os valores das notas de entrada separadas por tipo de entrada além de um gráfico à direita da imagem.\
 Logo abaixo da visualização do sistema, está o painel de cálculo dos valores da guia:
 
 ### Guia
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Nesse painel, será informado os valores da Guia, realizando o cálculo dos valores e dos créditos.\
 Em seguida, é possível gerar a Guia para os estados de Goiás e Minas Gerais:
@@ -37,7 +37,7 @@ Para gerar uma guia DIFAL, basta utilizar os botões no final do painel, logo ab
 
 Caso a empresa não seja dos estados onde é possível emitir a guia, será disponibilizado um relatório com o extrato dos valores e do cálculo em Excel e, logo ao lado, um botão cinza "Fechar DIFAL" responsável por congelar a apuração e novos cálculos.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Caso a empresa seja de Minas Gerais ou de Goiás, será possível gerar o a guia do DIFAL, para isso, o sistema disponibilizará um botão ao lado do relatório:&#x20;
 

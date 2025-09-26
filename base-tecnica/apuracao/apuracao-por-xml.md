@@ -97,7 +97,7 @@ Na parte inferior da tela, existe uma barra de operações que concentra todas a
 *   **Seleção de Matriz/Filial**: permite visualizar as apurações da matriz e de eventuais filiais, apenas para consulta dos valores. Importante destacar que o PGDAS das filiais é sempre gerado diretamente pela matriz.\
 
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   **Seleção de Anexo**: possibilita filtrar os dados da apuração para visualizar apenas os valores referentes a um anexo específico.\
 
 

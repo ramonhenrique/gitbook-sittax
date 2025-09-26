@@ -50,7 +50,7 @@ A aba **Calcula FECOEP/PROTEGE** permite configurar exceções fiscais em que o 
 
 ## Calcula Benefício:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A aba **Calcula Benefício** permite cadastrar exceções de cálculo de DIFAL onde há **redução de alíquota** ou outro tipo de **benefício fiscal** concedido por legislação estadual.
 
