@@ -5,7 +5,7 @@ A tela de Exceção de PIS/COFINS é usada para gerenciar as regras de tributaç
 
 Ao abrir o painel de Exceção PIS/COFINS, o seguinte menu será mostrado:
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
 Siga os itens demarcados na imagem
 
@@ -39,7 +39,7 @@ Siga os itens demarcados na imagem
 
 Este método é voltado para o cadastro em massa de regras de PIS e COFINS. Siga os passos abaixo para realizar o cadastro:
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
 1.  **Baixar Planilha Modelo**
 
@@ -57,11 +57,11 @@ Este método é voltado para o cadastro em massa de regras de PIS e COFINS. Siga
 
 ***
 
-## Sugestão Exceção PIS/COFINS
+## Sugestão
 
 Nessa tela, é possível ver as regras sugeridas pelo Sittax, essas regras são formuladas baseadas nas notas já importadas ao sistema e na configuração da empresa (UF, Cidade, CNAEs, etc..). Ao ser definida uma sugestão, ela irá aparecer no seguinte painel:
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
 Neste painel (Item 1), são exibidas as sugestões de regras de PIS/COFINS que ainda não foram importadas e estão pendentes. Ele mostra:
 
@@ -78,4 +78,26 @@ Para acatar uma sugestão e transformá-la em uma regra:
 
 Após a importação, essas sugestões se tornam regras e podem ser validadas no primeiro menu "Exceção PIS/COFINS".
 
-<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Não Acatadas
+
+A aba **Não Acatadas** tem como finalidade permitir ao usuário **controlar e desconsiderar determinados NCMs** da apuração de **PIS/COFINS no regime monofásico**, para um cliente específico.
+
+<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+
+#### **Como funciona:**
+
+* Ao incluir um NCM na aba **“Não Acatadas”**, o sistema passa a **desconsiderar automaticamente a tratativa monofásica** durante a apuração de PIS/COFINS para aquele item.
+* A nota fiscal será normalmente importada e registrada, mas os valores relacionados a PIS e COFINS **não serão tratados com a lógica de monofásico**, ou seja, poderão ser considerados como tributáveis, conforme parametrização.
+* Isso permite um **controle individualizado** por NCM, com base na interpretação da legislação vigente ou em decisões administrativas.
+
+#### **Quando utilizar:**
+
+Essa funcionalidade pode ser aplicada, por exemplo, nos seguintes cenários:
+
+* Produtos que, embora usualmente sujeitos ao **regime monofásico**, **não se enquadram** nessa sistemática por conta da **forma de comercialização, ou outros critérios legais**.
+* Itens cujo **enquadramento fiscal foi realizado de forma incorreta** pelo fornecedor, mas o cliente deseja **ajustar o tratamento tributário** na apuração.
+* Situações em que o cliente opta, com base em laudo ou parecer jurídico/fiscal, por **não considerar determinado NCM como monofásico**.
