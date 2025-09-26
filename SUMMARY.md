@@ -69,3 +69,4 @@
 * [Não estou conseguindo transmitir a apuração das empresas. O que pode ser?](nao-estou-conseguindo-transmitir-a-apuracao-das-empresas.-o-que-pode-ser.md)
 * [Como posso alterar o anexo da empresa prestadora de serviço?](como-posso-alterar-o-anexo-da-empresa-prestadora-de-servico.md)
 * [Classifiquei as notas de entrada, mas o DIFAL ainda não está sendo calculado. O que fazer?](classifiquei-as-notas-de-entrada-mas-o-difal-ainda-nao-esta-sendo-calculado.-o-que-fazer.md)
+* [Importei as notas fiscais de uma empresa e elas não estão sendo apuradas. O que pode ser?](importei-as-notas-fiscais-de-uma-empresa-e-elas-nao-estao-sendo-apuradas.-o-que-pode-ser.md)
