@@ -44,7 +44,7 @@ A tela também exibe informações detalhadas sobre o faturamento da empresa:\
 Por fim, a tela disponibiliza **gráficos comparativos** que mostram a diferença entre:\
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Os impostos calculados diretamente a partir das notas fiscais emitidas pelo cliente.
 * Os impostos recalculados com base na análise da Sittax.

@@ -19,7 +19,7 @@
 1. Com a tela **Dados da Empresa** aberta, acesse a aba **Configuração de Anexo**.
 2.  Na aba **Configuração de Anexo**, localize o segundo campo de **Anexo** e preencha com a seguinte configuração:
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     _**Anexo: Anexo IV - Prestadores de Serviço | Código de Serviço: (Insira o código de serviço)**_
 
