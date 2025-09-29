@@ -143,3 +143,20 @@ Na janela **Serviços**, insira as informações obrigatórias:
 
 **3. Clique em "Salvar"**\
 Após preencher os campos corretamente, finalize clicando no botão **Salvar** para concluir a configuração.
+
+## Acessórias
+
+Nesta aba, você pode configurar a integração do **Sittax** com a plataforma **Acessórias**, possibilitando o envio automático de documentações, como: **Declaração, Extrato, DAS e Recibo**.
+
+Para realizar a configuração, siga os passos abaixo:
+
+<figure><img src="../../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
+
+**1. Acesse a aba "Acessórias"**\
+Na tela **Dados do Escritório**, clique na aba **Acessórias** localizada no menu superior.
+
+**2. Informe a API Key Acessórias**\
+Digite a **API Key Acessórias** no campo indicado.
+
+**3. Clique em "Salvar"**\
+Após preencher a API Key, finalize clicando no botão **Salvar** para concluir a configuração.
