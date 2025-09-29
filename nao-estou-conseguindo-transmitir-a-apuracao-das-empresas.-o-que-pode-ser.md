@@ -31,6 +31,6 @@ Através da funcionalidade **"Tarefas"**, você poderá verificar se houve falha
 
 > _**OBSERVAÇÃO:** Antes de seguir as etapas abaixo, **certifique-se de que a apuração da empresa esteja aberta**. Manter a apuração aberta garante que **os dados sejam atualizados em tempo real** conforme as ações forem executadas, evitando inconsistências durante o processo._
 
-1. Acesse o PGDAS e baixe o **PDF da Declaração** ou o **Extrato PGDAS** referente ao **último período de apuração** da empresa.
+1. Acesse o PGDAS e baixe o **PDF da Declaração PGDAS** referente ao **último período de apuração** da empresa.
 2. Com o PDF salvo em sua máquina, **importe o arquivo** no mesmo local onde são importados os **XMLs para a apuração das notas** dentro do sistema.
 3. Após a importação, **tente realizar a transmissão da empresa novamente**.
