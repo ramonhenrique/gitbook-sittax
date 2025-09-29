@@ -8,8 +8,8 @@
 
 > _**Caso tenha dúvidas sobre como gerar o Relatório de Conferência, consulte a seção: "Como analisar o Relatório de Conferência?" disponível abaixo.**_
 
-{% content-ref url="../tutoriais/como-analisar-o-relatorio-de-conferencia.md" %}
-[como-analisar-o-relatorio-de-conferencia.md](../tutoriais/como-analisar-o-relatorio-de-conferencia.md)
+{% content-ref url="../guias-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md" %}
+[como-analisar-o-relatorio-de-conferencia.md](../guias-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md)
 {% endcontent-ref %}
 
 
