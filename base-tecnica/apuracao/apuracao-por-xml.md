@@ -44,7 +44,7 @@ A tela também exibe informações detalhadas sobre o faturamento da empresa:\
 Por fim, a tela disponibiliza **gráficos comparativos** que mostram a diferença entre:\
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Os impostos calculados diretamente a partir das notas fiscais emitidas pelo cliente.
 * Os impostos recalculados com base na análise da Sittax.
@@ -62,7 +62,7 @@ No painel de auditoria, é disponibilizado alguns avisos e advertências sobre a
 Esses avisos, são os mesmo que aparecem no painel do contador ao clicar em uma empresa, porém, aplicados para o menu de apurações, para visualizar o aviso por completo basta passar o cursor em cima dos avisos. Os avisos consistem em:\
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Certificado**
    * Tem como objetivo mostrar a situação do certificado digital e sua data de vencimento
