@@ -10,6 +10,6 @@
 
 #### **Importante:**
 
-Caso sua necessidade seja tratar de **outros assuntos financeiros** (ex: renegociação, dúvidas sobre valores, boletos vencidos, etc.), recomendamos que entre em contato diretamente com o setor financeiro da Sittax, por meio do número abaixo:
+Caso sua necessidade seja tratar de **outros assuntos financeiros** (ex: boletos vencidos, etc.), recomendamos que entre em contato diretamente com o setor financeiro da Sittax, por meio do número abaixo:
 
 **Financeiro Sittax:** (62) 9358-5087
