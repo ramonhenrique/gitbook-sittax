@@ -70,3 +70,4 @@
 * [Como posso alterar o anexo da empresa prestadora de serviço?](como-posso-alterar-o-anexo-da-empresa-prestadora-de-servico.md)
 * [Classifiquei as notas de entrada, mas o DIFAL ainda não está sendo calculado. O que pode ser?](classifiquei-as-notas-de-entrada-mas-o-difal-ainda-nao-esta-sendo-calculado.-o-que-pode-ser.md)
 * [Importei as notas fiscais de uma empresa e elas não estão sendo apuradas. O que pode ser?](importei-as-notas-fiscais-de-uma-empresa-e-elas-nao-estao-sendo-apuradas.-o-que-pode-ser.md)
+* [Como posso alterar o CFOP da nota fiscal?](como-posso-alterar-o-cfop-da-nota-fiscal.md)
