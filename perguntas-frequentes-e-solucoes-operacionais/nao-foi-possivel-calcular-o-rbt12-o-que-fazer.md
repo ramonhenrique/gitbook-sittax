@@ -9,7 +9,7 @@
 
 #### Para resolver a situação, siga as etapas abaixo:
 
-1. Baixe o **PDF da Declaração** ou o **Extrato PGDAS** referente ao último período de apuração.
+1. Baixe o **PDF da Declaração PGDAS-D** referente ao último período de apuração.
 2. Com o PDF baixado, **importe o arquivo no mesmo local onde são importados os XMLs de notas fiscais** dentro do sistema.
 3. Após a importação, o sistema fará a leitura dos **períodos pendentes** e **atualizará automaticamente o cálculo do RBT12**.
 
