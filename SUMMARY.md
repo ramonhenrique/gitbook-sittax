@@ -59,7 +59,7 @@
 
 ***
 
-* [Perguntas Frequentes e Soluções Operacionais](perguntas-frequentes-e-solucoes-operacionais/README.md)
+* [PERGUNTAS FREQUENTES E SOLUÇÕES OPERACIONAIS](perguntas-frequentes-e-solucoes-operacionais/README.md)
   * [Como faço para excluir/inativar uma empresa cadastrada?](perguntas-frequentes-e-solucoes-operacionais/como-faco-para-excluir-inativar-uma-empresa-cadastrada.md)
   * [Como posso verificar a fórmula utilizada no cálculo do DIFAL?](perguntas-frequentes-e-solucoes-operacionais/como-posso-verificar-a-formula-utilizada-no-calculo-do-difal.md)
   * [Não foi possível calcular o RBT12: o que fazer?](perguntas-frequentes-e-solucoes-operacionais/nao-foi-possivel-calcular-o-rbt12-o-que-fazer.md)
@@ -69,7 +69,7 @@
   * [Importei as notas fiscais de uma empresa e elas não estão sendo apuradas. O que pode ser?](perguntas-frequentes-e-solucoes-operacionais/importei-as-notas-fiscais-de-uma-empresa-e-elas-nao-estao-sendo-apuradas.-o-que-pode-ser.md)
   * [Como posso alterar o CFOP da nota fiscal?](perguntas-frequentes-e-solucoes-operacionais/como-posso-alterar-o-cfop-da-nota-fiscal.md)
   * [Notas de Serviço do Anexo III foram interpretadas como Anexo III Exterior. Como corrigir?](perguntas-frequentes-e-solucoes-operacionais/notas-de-servico-do-anexo-iii-foram-interpretadas-como-anexo-iii-exterior.-como-corrigir.md)
-* [Tutoriais](tutoriais/README.md)
+* [TUTORIAIS](tutoriais/README.md)
   * [Como funciona o Simples Nacional?](tutoriais/como-funciona-o-simples-nacional.md)
   * [Como analisar o Relatório de Conferência?](tutoriais/como-analisar-o-relatorio-de-conferencia.md)
   * [Como baixar/utilizar NF-Monitor?](tutoriais/como-baixar-utilizar-nf-monitor.md)
