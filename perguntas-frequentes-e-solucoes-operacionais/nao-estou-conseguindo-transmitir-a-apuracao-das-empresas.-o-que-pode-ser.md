@@ -7,7 +7,7 @@
 * Após solicitar a **transmissão da apuração da empresa**, é necessário validar se o processo foi concluído com sucesso ou se houve algum impedimento.
 * Para isso, acesse a funcionalidade **"Tarefas"**, localizada no **canto superior direito da página**.
 
-<figure><img src=".gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
 Essa área é responsável por exibir o **status das requisições** realizadas dentro da ferramenta Sittax, como por exemplo:
 
@@ -22,7 +22,7 @@ Através da funcionalidade **"Tarefas"**, você poderá verificar se houve falha
 
 ### Valores dos impostos apurados pelo sistema e o valor apurado pelo PGDAS não coincidiram:
 
-<figure><img src=".gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
 * Esse impedimento pode ocorrer quando a ferramenta encontra **dificuldades para validar a Declaração anterior** no momento da transmissão e geração da Declaração do **período atual de apuração**.
 * No entanto, há uma **solução alternativa** que pode ser aplicada para resolver esse cenário.

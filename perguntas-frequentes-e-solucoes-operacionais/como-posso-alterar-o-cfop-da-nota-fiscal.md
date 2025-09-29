@@ -5,7 +5,7 @@
 * **Acesse a tela de Nota Fiscal**\
   Primeiramente, é necessário acessar a tela correspondente à **Nota Fiscal de Saída** ou **Nota Fiscal de Entrada**. O procedimento pode ser realizado em ambas as situações.
 
-<figure><img src=".gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
 1. **Selecione a Nota Fiscal**\
    Localize e marque a nota fiscal que deseja alterar o CFOP.
@@ -17,6 +17,6 @@
     Uma nova tela será exibida, permitindo a alteração do CFOP. No campo **CFOP de Origem**, insira o CFOP que foi originalmente emitido na nota fiscal.\
     No campo **CFOP de Destino**, insira o novo CFOP que deseja utilizar.
 
-    <figure><img src=".gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 5. **Confirme a Alteração**\
    Após preencher os campos corretamente, clique em **"Confirmar"** para finalizar a alteração do CFOP.

@@ -2,7 +2,7 @@
 
 ### Etapa única: Importar extrato para cálculo do RBT12
 
-<figure><img src=".gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 * Essa mensagem ocorre quando o sistema **não consegue identificar o faturamento dos períodos informados na notificação**.
 * Sem esses dados, **o cálculo do RBT12 (Receita Bruta dos Últimos 12 meses)** não pode ser concluído, e o acesso à tela de **apuração** da empresa permanece bloqueado.

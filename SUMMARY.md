@@ -57,18 +57,19 @@
 
 ## F.A.Q E TUTORIAIS
 
-* [Como funciona o Simples Nacional?](f.a.q-e-tutoriais/como-funciona-o-simples-nacional.md)
-* [Como analisar o Relatório de Conferência?](f.a.q-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md)
-* [Como faço para excluir/inativar uma empresa cadastrada?](f.a.q-e-tutoriais/como-faco-para-excluir-inativar-uma-empresa-cadastrada.md)
-* [Como baixar/utilizar NF-Monitor?](f.a.q-e-tutoriais/como-baixar-utilizar-nf-monitor.md)
-* [Como posso verificar a fórmula utilizada no cálculo do DIFAL?](f.a.q-e-tutoriais/como-posso-verificar-a-formula-utilizada-no-calculo-do-difal.md)
-
 ***
 
-* [Não foi possível calcular o RBT12: o que fazer?](nao-foi-possivel-calcular-o-rbt12-o-que-fazer.md)
-* [Não estou conseguindo transmitir a apuração das empresas. O que pode ser?](nao-estou-conseguindo-transmitir-a-apuracao-das-empresas.-o-que-pode-ser.md)
-* [Como posso alterar o anexo da empresa prestadora de serviço?](como-posso-alterar-o-anexo-da-empresa-prestadora-de-servico.md)
-* [Classifiquei as notas de entrada, mas o DIFAL ainda não está sendo calculado. O que pode ser?](classifiquei-as-notas-de-entrada-mas-o-difal-ainda-nao-esta-sendo-calculado.-o-que-pode-ser.md)
-* [Importei as notas fiscais de uma empresa e elas não estão sendo apuradas. O que pode ser?](importei-as-notas-fiscais-de-uma-empresa-e-elas-nao-estao-sendo-apuradas.-o-que-pode-ser.md)
-* [Como posso alterar o CFOP da nota fiscal?](como-posso-alterar-o-cfop-da-nota-fiscal.md)
-* [Notas de Serviço do Anexo III foram interpretadas como Anexo III Exterior. Como corrigir?](notas-de-servico-do-anexo-iii-foram-interpretadas-como-anexo-iii-exterior.-como-corrigir.md)
+* [Perguntas Frequentes e Soluções Operacionais](perguntas-frequentes-e-solucoes-operacionais/README.md)
+  * [Como faço para excluir/inativar uma empresa cadastrada?](perguntas-frequentes-e-solucoes-operacionais/como-faco-para-excluir-inativar-uma-empresa-cadastrada.md)
+  * [Como posso verificar a fórmula utilizada no cálculo do DIFAL?](perguntas-frequentes-e-solucoes-operacionais/como-posso-verificar-a-formula-utilizada-no-calculo-do-difal.md)
+  * [Não foi possível calcular o RBT12: o que fazer?](perguntas-frequentes-e-solucoes-operacionais/nao-foi-possivel-calcular-o-rbt12-o-que-fazer.md)
+  * [Não estou conseguindo transmitir a apuração das empresas. O que pode ser?](perguntas-frequentes-e-solucoes-operacionais/nao-estou-conseguindo-transmitir-a-apuracao-das-empresas.-o-que-pode-ser.md)
+  * [Como posso alterar o anexo da empresa prestadora de serviço?](perguntas-frequentes-e-solucoes-operacionais/como-posso-alterar-o-anexo-da-empresa-prestadora-de-servico.md)
+  * [Classifiquei as notas de entrada, mas o DIFAL ainda não está sendo calculado. O que pode ser?](perguntas-frequentes-e-solucoes-operacionais/classifiquei-as-notas-de-entrada-mas-o-difal-ainda-nao-esta-sendo-calculado.-o-que-pode-ser.md)
+  * [Importei as notas fiscais de uma empresa e elas não estão sendo apuradas. O que pode ser?](perguntas-frequentes-e-solucoes-operacionais/importei-as-notas-fiscais-de-uma-empresa-e-elas-nao-estao-sendo-apuradas.-o-que-pode-ser.md)
+  * [Como posso alterar o CFOP da nota fiscal?](perguntas-frequentes-e-solucoes-operacionais/como-posso-alterar-o-cfop-da-nota-fiscal.md)
+  * [Notas de Serviço do Anexo III foram interpretadas como Anexo III Exterior. Como corrigir?](perguntas-frequentes-e-solucoes-operacionais/notas-de-servico-do-anexo-iii-foram-interpretadas-como-anexo-iii-exterior.-como-corrigir.md)
+* [Tutoriais](tutoriais/README.md)
+  * [Como funciona o Simples Nacional?](tutoriais/como-funciona-o-simples-nacional.md)
+  * [Como analisar o Relatório de Conferência?](tutoriais/como-analisar-o-relatorio-de-conferencia.md)
+  * [Como baixar/utilizar NF-Monitor?](tutoriais/como-baixar-utilizar-nf-monitor.md)
