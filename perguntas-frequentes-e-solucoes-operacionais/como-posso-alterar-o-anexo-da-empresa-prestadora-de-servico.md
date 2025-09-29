@@ -21,7 +21,7 @@
 
     <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-    _Anexo: Anexo IV - Prestadores de Serviço | Código de Serviço: (Insira o código de serviço)_
+    _**Anexo: Anexo IV - Prestadores de Serviço | Código de Serviço: (Insira o código de serviço)**_
 
 
 3. Para concluir a alteração, clique em **Salvar**.
