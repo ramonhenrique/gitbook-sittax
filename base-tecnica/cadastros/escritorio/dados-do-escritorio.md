@@ -127,11 +127,19 @@ No menu de configurações, é possível ativar e desativar avisos, notificaçõ
 
 Neste painel, é possível configurar a integração do Sittax com o serviço do SIEG, permitindo que as notas de saída e de entrada sejam importadas automaticamente para o sistema. Ao acessar este painel, siga os passos abaixo para realizar a configuração:
 
-<figure><img src="../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. **Preenchimento dos Dados de Acesso**:
-   * Insira o e-mail e a senha de acesso ao SIEG, juntamente com a chave de API no item 1 da imagem acima.
-   * Para obter a chave de API do SIEG, acesse o menu "Integrações API SIEG" dentro das configurações "Minha Conta" no próprio SIEG.
-2. **Relatório de Integração**:
-   * Após preencher os dados, o sistema exibirá um relatório à direita (Item 2) mostrando a última consulta com o SIEG.
-   * O relatório incluirá uma coluna que informará caso ocorra algum erro com a integração.
+**1. Acesse a aba "Configurações"**\
+Na tela **Dados do Escritório**, clique no botão **Configurações** localizado na parte superior da seção.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+**2. Preencha os dados de integração SIEG**\
+Na janela **Serviços**, insira as informações obrigatórias:
+
+* **API Key SIEG**
+* **E-mail SIEG**
+* **Senha SIEG**
+
+**3. Clique em "Salvar"**\
+Após preencher os campos corretamente, finalize clicando no botão **Salvar** para concluir a configuração.

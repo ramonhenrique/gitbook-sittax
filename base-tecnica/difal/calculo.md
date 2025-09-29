@@ -19,14 +19,14 @@ Tendo sua tela separada entre a apuração das notas de produtos e a apuração 
 
 ### Produtos
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nesse painel, será contabilizado os valores das notas de entrada separadas por tipo de entrada além de um gráfico à direita da imagem.\
 Logo abaixo da visualização do sistema, está o painel de cálculo dos valores da guia:
 
 ### Guia
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nesse painel, será informado os valores da Guia, realizando o cálculo dos valores e dos créditos.\
 Em seguida, é possível gerar a Guia para os estados de Goiás e Minas Gerais:
