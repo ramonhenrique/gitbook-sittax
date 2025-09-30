@@ -70,6 +70,7 @@
   * [Como posso alterar o CFOP da nota fiscal?](perguntas-frequentes-e-solucoes-operacionais/como-posso-alterar-o-cfop-da-nota-fiscal.md)
   * [Notas de Serviço do Anexo III foram interpretadas como Anexo III Exterior. Como corrigir?](perguntas-frequentes-e-solucoes-operacionais/notas-de-servico-do-anexo-iii-foram-interpretadas-como-anexo-iii-exterior.-como-corrigir.md)
   * [Como posso gerar arquivos de integração no sistema?](perguntas-frequentes-e-solucoes-operacionais/como-posso-gerar-arquivos-de-integracao-no-sistema.md)
+  * [Não conseguimos converter o(s) CFOP(s) de saídas das notas de entrada. Como resolver?](perguntas-frequentes-e-solucoes-operacionais/nao-conseguimos-converter-o-s-cfop-s-de-saidas-das-notas-de-entrada.-como-resolver.md)
 * [GUIAS E TUTORIAIS](guias-e-tutoriais/README.md)
   * [Como funciona o Simples Nacional?](guias-e-tutoriais/como-funciona-o-simples-nacional.md)
   * [Como analisar o Relatório de Conferência?](guias-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md)

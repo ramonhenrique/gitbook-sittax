@@ -1,8 +1,8 @@
-# Como acessar o boleto da mensalidade?
+# Acesso ao boleto da mensalidade
 
 #### Para visualizar e acessar o boleto da mensalidade da ferramenta Sittax, siga os passos abaixo:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Acesse a tela "Dados do Escritório"**
 2. **Clique na aba "Financeiro"**\
