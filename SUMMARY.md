@@ -74,3 +74,4 @@
   * [Como analisar o Relatório de Conferência?](guias-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md)
   * [Como baixar/utilizar NF-Monitor?](guias-e-tutoriais/como-baixar-utilizar-nf-monitor.md)
   * [Como acessar o boleto da mensalidade?](guias-e-tutoriais/como-acessar-o-boleto-da-mensalidade.md)
+  * [Configuração ISS devido a outro Município](guias-e-tutoriais/configuracao-iss-devido-a-outro-municipio.md)
