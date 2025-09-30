@@ -75,5 +75,5 @@
   * [Como funciona o Simples Nacional?](guias-e-tutoriais/como-funciona-o-simples-nacional.md)
   * [Como analisar o Relatório de Conferência?](guias-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md)
   * [Como baixar/utilizar NF-Monitor?](guias-e-tutoriais/como-baixar-utilizar-nf-monitor.md)
-  * [Acesso ao boleto da mensalidade](guias-e-tutoriais/acesso-ao-boleto-da-mensalidade.md)
+  * [Acesso ao boleto/fatura da mensalidade](guias-e-tutoriais/acesso-ao-boleto-fatura-da-mensalidade.md)
   * [Configuração ISS devido a outro Município](guias-e-tutoriais/configuracao-iss-devido-a-outro-municipio.md)
