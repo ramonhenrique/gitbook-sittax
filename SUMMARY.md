@@ -69,6 +69,7 @@
   * [Importei as notas fiscais de uma empresa e elas não estão sendo apuradas. O que pode ser?](perguntas-frequentes-e-solucoes-operacionais/importei-as-notas-fiscais-de-uma-empresa-e-elas-nao-estao-sendo-apuradas.-o-que-pode-ser.md)
   * [Como posso alterar o CFOP da nota fiscal?](perguntas-frequentes-e-solucoes-operacionais/como-posso-alterar-o-cfop-da-nota-fiscal.md)
   * [Notas de Serviço do Anexo III foram interpretadas como Anexo III Exterior. Como corrigir?](perguntas-frequentes-e-solucoes-operacionais/notas-de-servico-do-anexo-iii-foram-interpretadas-como-anexo-iii-exterior.-como-corrigir.md)
+  * [Como posso gerar arquivos de integração no sistema?](perguntas-frequentes-e-solucoes-operacionais/como-posso-gerar-arquivos-de-integracao-no-sistema.md)
 * [GUIAS E TUTORIAIS](guias-e-tutoriais/README.md)
   * [Como funciona o Simples Nacional?](guias-e-tutoriais/como-funciona-o-simples-nacional.md)
   * [Como analisar o Relatório de Conferência?](guias-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md)
