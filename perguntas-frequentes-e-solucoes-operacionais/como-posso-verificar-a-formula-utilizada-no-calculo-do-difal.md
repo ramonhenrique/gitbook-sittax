@@ -1,6 +1,6 @@
 # Como posso verificar a fórmula utilizada no cálculo do DIFAL?
 
-#### Para verificar a fórmula que está sendo utilizada no cálculo do DIFAL, soga as etapas abaixo:
+#### Para verificar a fórmula que está sendo utilizada no cálculo do DIFAL, siga as etapas abaixo:
 
 ### Etapa única: Gerar relatório com as fórmulas de cálculo
 
