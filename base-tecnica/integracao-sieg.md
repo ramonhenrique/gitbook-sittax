@@ -7,7 +7,7 @@ description: >-
 
 # Integração SIEG
 
-### 🧩 Etapa 1 — Download e Instalação do Aplicativo da SIEG
+### Etapa 1 — Download e Instalação do Aplicativo da SIEG
 
 1. Acesse o **HUB SIEG** com o login do cliente.
 2.  Vá até o menu lateral e clique em **“Todos os Serviços” → “Utilidades” → “Baixar o APP”**.\
@@ -24,7 +24,7 @@ description: >-
 
 ***
 
-### ⚙️ Etapa 2 — Configuração Base do Aplicativo
+### Etapa 2 — Configuração Base do Aplicativo
 
 1. Abra o aplicativo da SIEG.
 2. Faça o Login com os dados do Cliente em questão.
@@ -41,7 +41,7 @@ description: >-
 
 ***
 
-### 📥 Etapa 3 — Estrutura de Coleta de Notas
+### Etapa 3 — Estrutura de Coleta de Notas
 
 O objetivo principal é utilizar o **app do HUB SIEG** para **baixar automaticamente** as notas fiscais do cliente para um **diretório local**, que posteriormente será utilizado pelo **NF Monitor** para enviar os dados ao **Sittax Simples**.
 
@@ -59,7 +59,7 @@ O objetivo principal é utilizar o **app do HUB SIEG** para **baixar automaticam
 
 ***
 
-### 🧮 Etapa 4 — Configuração dos Arquivos e Filtros
+### Etapa 4 — Configuração dos Arquivos e Filtros
 
 Nesta etapa, definiremos **quais tipos de notas** serão baixadas e **de qual período**.
 
@@ -89,7 +89,7 @@ Se hoje é **15/10/2025** e você deseja puxar notas de **setembro**, configure 
 
 ***
 
-### 📁 Etapa 5 — Definição do Diretório de Armazenamento
+### Etapa 5 — Definição do Diretório de Armazenamento
 
 O diretório é o local onde as notas serão salvas antes de serem lidas pelo NF Monitor.
 
@@ -111,7 +111,7 @@ O diretório é o local onde as notas serão salvas antes de serem lidas pelo NF
 
 ***
 
-### ⏬ Etapa 6 — Download Inicial e Sincronização Diária
+### Etapa 6 — Download Inicial e Sincronização Diária
 
 1. Retorne ao menu **Empresas** dentro do **Hub / Cofre**.
 2. Clique na opção **“Baixar Notas”**.
@@ -127,7 +127,7 @@ O diretório é o local onde as notas serão salvas antes de serem lidas pelo NF
 
 ***
 
-### 🔗 Etapa 7 — Integração com o NF Monitor (Sittax)
+### Etapa 7 — Integração com o NF Monitor (Sittax)
 
 Após o diretório estar populado com as notas, siga os passos abaixo para finalizar a integração:
 
