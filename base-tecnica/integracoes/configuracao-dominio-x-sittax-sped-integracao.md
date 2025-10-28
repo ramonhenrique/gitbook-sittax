@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Configuração Domínio x Sittax (SPED Integração)
 
 Esta página descreve o novo modelo de integração entre o **Sittax** e o **Domínio**, realizado por meio do arquivo **SPED**. Desenvolvido para otimizar o processo de importação das notas fiscais, esse método substitui a leitura individual via **XML**, proporcionando maior **agilidade**, **consistência dos dados** e **segurança na escrituração contábil**.
