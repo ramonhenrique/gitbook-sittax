@@ -132,7 +132,7 @@ Neste painel, é possível configurar a integração do Sittax com o serviço do
 **1. Acesse a aba "Configurações"**\
 Na tela **Dados do Escritório**, clique no botão **Configurações** localizado na parte superior da seção.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Preencha os dados de integração SIEG**\
 Na janela **Serviços**, insira as informações obrigatórias:
@@ -160,3 +160,18 @@ Digite a **API Key Acessórias** no campo indicado.
 
 **3. Clique em "Salvar"**\
 Após preencher a API Key, finalize clicando no botão **Salvar** para concluir a configuração.
+
+## Financeiro
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+A aba **Financeiro** é destinada exclusivamente ao **administrador do escritório** e tem como objetivo centralizar todas as informações relacionadas aos pagamentos da assinatura da ferramenta.
+
+Por meio desta aba, o usuário pode:
+
+* **Acessar os boletos** das mensalidades vigentes e anteriores;
+* **Realizar o pagamento** de faturas em aberto, clicando em **“Pagar Agora”**;
+* **Consultar o histórico de pagamentos**, visualizando status (Aberto/Quitado), datas de vencimento e pagamento, valores e descontos aplicados;
+* **Emitir a segunda via** ou **visualizar faturas já quitadas**, por meio da opção **“Ver”** disponível em cada linha.
+
+Essa área garante **transparência e autonomia financeira** ao escritório, permitindo o acompanhamento completo das cobranças, sem necessidade de contato direto com o suporte para obtenção dos boletos.
