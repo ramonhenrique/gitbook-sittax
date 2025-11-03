@@ -101,7 +101,7 @@ Neste painel, é possível adicionar o certificado digital do escritório. No in
    * Após adicionar o certificado, ele ficará listado como pendente para aprovação (Item 3).
    * Para enviar o certificado para o sistema, clique nos botões laranjas "Enviar" ou "Enviar todos".
 
-## Sócios:
+## Sócios
 
 Nessa tela é possível cadastrar os sócios desse escritório, essa função é extremamente importante para escritórios que utilizam certificados por procuração em cliente onde o certificado digital usado será o de pessoa física do Sócio. Nesse caso, após cadastrar o sócio é possível importar o certificado dele no menu "Certificados" dentro do cadastro do escritório.\
 \
@@ -111,7 +111,7 @@ Ao abrir o menu "Sócios" a seguinte tela poderá ser visualizada:
 
 Para cadastrar um sócio, basta clicar em "Adicionar Sócio", preencher o nome, o CPF e clicar no botão laranja "Salvar".
 
-## Configurações:
+## Configurações
 
 No menu de configurações, é possível ativar e desativar avisos, notificações, tipo de pesquisa e o fuso horário. Ao clicar nessa função, o seguinte painel será mostrado:\
 
