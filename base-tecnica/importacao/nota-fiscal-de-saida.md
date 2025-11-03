@@ -45,3 +45,5 @@ Para obter uma visão detalhada de uma nota fiscal específica:
 **SIEG**\
 \
 Na tela principal do menu nota fiscal, no canto superior direito existe um botão "Consultar notas SIEG" (Item 4),  essa função realiza um pedido de consulta ao SIEG, puxando as notas mais recentes que estiverem registradas dentro do SIEG e, logo ao lado, um botão de atualizar a página para mostrar novas notas.
+
+<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
