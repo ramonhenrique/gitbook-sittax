@@ -8,7 +8,7 @@ Se a empresa emite **poucas notas fiscais por mês**, é possível ajustar os CF
 [como-posso-alterar-o-cfop-da-nota-fiscal.md](como-posso-alterar-o-cfop-da-nota-fiscal.md)
 {% endcontent-ref %}
 
-Já para empresas com **grande volume de notas**, o ideal é utilizar a tela **Configuração de Anexo**, que permite **relacionar e corrigir os CFOPs** para que sejam tributados no **Anexo correto**.
+Já para empresas com grande volume de notas, o ideal é utilizar a tela **Configuração de Anexo**, que permite relacionar e corrigir os CFOPs para que sejam tributados no Anexo correto.
 
 ### Procedimento passo a passo:
 
@@ -23,9 +23,9 @@ Já para empresas com **grande volume de notas**, o ideal é utilizar a tela **C
 1. **Acesse a tela de Configuração de Anexo**\
    Entre em **Dados da Empresa > Configuração de Anexo**.
 2. **Selecione o Anexo correto**\
-   Dentro da aba **Configuração de Anexo,** no primeiro campo “Anexo”, escolha o **Anexo que deveria estar sendo utilizado** na apuração da empresa.
+   Dentro da aba **Configuração de Anexo,** no primeiro campo “Anexo”, escolha o Anexo que deveria estar sendo utilizado na apuração da empresa.
 3. **Associe os CFOPs incorretos**\
-   No campo ao lado, insira os **CFOPs que foram emitidos de forma incorreta**, para que passem a tributar no Anexo correto.
+   No campo ao lado, insira os CFOPs que foram emitidos de forma incorreta, para que passem a tributar no Anexo correto.
 4. **Salve as alterações**\
    Clique em **“Salvar”** para confirmar a configuração.
 
