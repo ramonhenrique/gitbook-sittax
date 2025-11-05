@@ -7,7 +7,7 @@ description: Tela de login
 Para acessar o Sittax, é necessário acessar o link da plataforma: app.sittax.com.br/login, após acessar o link, o seguinte painel para realizar o login:\
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Tela de Login - Acesso
 

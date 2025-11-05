@@ -11,7 +11,7 @@ Sem essas informações, o sistema não consegue identificar corretamente o Anex
 
 #### Para realizar a correção da interpretação do Anexo correto para as prestações de serviço, siga os passos descritos abaixo:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Acesse a tela de Nota Fiscal de Saída**\
    Vá até a tela **Nota Fiscal de Saída** da empresa em que as notas foram importadas.
@@ -23,7 +23,7 @@ Sem essas informações, o sistema não consegue identificar corretamente o Anex
    Após selecionar a operação, clique no botão **"Realizar operação em lote"** para iniciar a alteração.
 5.  **Altere o CFOP na nova tela**
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     * No campo **CFOP de Origem**, insira o CFOP que foi atribuído incorretamente (ex: **7933**, utilizado para serviços ao exterior)
     * No campo **CFOP de Destino**, insira o CFOP correto da prestação de serviço (ex: **5933**, referente à operação interna).
