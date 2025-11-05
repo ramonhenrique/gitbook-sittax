@@ -14,7 +14,7 @@ Já para empresas com grande volume de notas, o ideal é utilizar a tela **Confi
 
 * **Identifique os CFOPs incorretos**\
   Antes de ajustar, acesse o **Relatório de Conferência** da apuração da empresa e verifique, na coluna **“CFOP da nota”**, quais foram emitidos incorretamente.\
-  Para a geração e validação do Relatório de Conferência, é possível conferi-lo através do módulo indicado no F.A.Q abaixo:
+  Para saber mais sobre a geração e validação do Relatório de Conferência, é possível conferi-lo através do módulo indicado no F.A.Q abaixo:
 
 {% content-ref url="../guias-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md" %}
 [como-analisar-o-relatorio-de-conferencia.md](../guias-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md)
