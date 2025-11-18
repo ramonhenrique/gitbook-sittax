@@ -19,7 +19,7 @@ Para acessar o Relatório de Conferência, siga este passo a passo:
 
 Para acessar o Relatório de Conferência, siga este passo a passo:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
 
 1. Clique no botão **"Apuração"** localizado no canto superior direito da plataforma;
 2. Clique no botão **"Conferência"** localizado no canto inferior da tela de apuração
