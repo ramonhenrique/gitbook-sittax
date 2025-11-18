@@ -4,18 +4,22 @@
 
 O Relatório de Conferência é um recurso do Sittax que permite comparar os dados das notas fiscais emitidas com as sugestões de tributação feitas pelo sistema. Ele é utilizado para revisar possíveis ajustes fiscais antes da transmissão da apuração, garantindo mais segurança, conformidade e economia para o cliente.
 
-### Como acessar? (Tela de apuração antiga) <a href="#como-acessar" id="como-acessar"></a>
+### Como acessar? (Tela de apuração antiga - Gerar Apuração) <a href="#como-acessar" id="como-acessar"></a>
 
 Para acessar o Relatório de Conferência, siga este passo a passo:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. No menu lateral esquerdo, clique em **“Apuração”;**
 2. Em seguida, selecione **“Gerar Apuração”;**
 3. No topo da tela, clique no botão **“Outras ações”;**
 4. Por fim, selecione a opção **“Relatório de conferência”**.
 
-### Como acessar? (Nova tela de apuração)
+### Como acessar? (Nova tela de apuração - Apuração por XML)
 
 Para acessar o Relatório de Conferência, siga este passo a passo:
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Clique no botão **"Apuração"** localizado no canto superior direito da plataforma;
 2. Clique no botão **"Conferência"** localizado no canto inferior da tela de apuração

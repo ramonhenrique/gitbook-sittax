@@ -132,7 +132,7 @@ Neste painel, é possível configurar a integração do Sittax com o serviço do
 **1. Acesse a aba "Configurações"**\
 Na tela **Dados do Escritório**, clique no botão **Configurações** localizado na parte superior da seção.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Preencha os dados de integração SIEG**\
 Na janela **Serviços**, insira as informações obrigatórias:
@@ -163,7 +163,7 @@ Após preencher a API Key, finalize clicando no botão **Salvar** para concluir 
 
 ## Financeiro
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A aba **Financeiro** é destinada exclusivamente ao **administrador do escritório** e tem como objetivo centralizar todas as informações relacionadas aos pagamentos da assinatura da ferramenta.
 
