@@ -56,7 +56,7 @@
   * [Configuração Domínio x Sittax (SPED Integração)](base-tecnica/integracoes/configuracao-dominio-x-sittax-sped-integracao.md)
 * [Integração SIEG](base-tecnica/integracao-sieg.md)
 
-## AGENTE WhatsApp
+## AGENTE IA WhatsApp
 
 ***
 
