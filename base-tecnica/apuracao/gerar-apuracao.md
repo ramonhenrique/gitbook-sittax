@@ -2,8 +2,7 @@
 
 Esta é a tela principal de apuração do sistema, essencial para consolidar e analisar todas as notas fiscais importadas, aplicando automaticamente as regras de exceções de impostos como PIS, COFINS e ICMS. Este painel centraliza as operações fiscais, permitindo a transmissão de apurações, geração de relatórios e gestão de anexos. Ele fornece uma visão completa dos valores apurados, incluindo receitas, devoluções, RBT12 e RBA, além de calcular o DAS e distribuir impostos. O painel de auditoria alerta sobre possíveis inconsistências, garantindo a precisão e conformidade dos dados fiscais, tornando-se crucial para a gestão tributária eficiente da empresa.\
 \
-Ao abrir o menu de gerar apuração, um dashboard informativo será informado:\
-
+Ao abrir o menu de gerar apuração, um dashboard informativo será informado:<br>
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,8 +23,7 @@ Dentro das informações mostradas nos relatórios do Dashboard, algumas se dest
 
 **Item 1: Separação por Anexos**
 
-A apuração é organizada por anexos, mostrando todos os anexos pertencentes ao CNPJ da empresa. As notas são anexadas aos seus respectivos anexos, permitindo tanto a visualização exclusiva de cada anexo quanto uma visão completa dos impostos na aba "Geral".\
-
+A apuração é organizada por anexos, mostrando todos os anexos pertencentes ao CNPJ da empresa. As notas são anexadas aos seus respectivos anexos, permitindo tanto a visualização exclusiva de cada anexo quanto uma visão completa dos impostos na aba "Geral".<br>
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,16 +36,14 @@ Este item apresenta as receitas e devoluções consideradas no cálculo da apura
 Aqui são mostrados o RBT12, que é o faturamento dos últimos 12 meses, e o RBA, que representa o faturamento de janeiro até a data de vigência da apuração.
 
 **Item 4: Percentual sobre a Receita e cálculo DAS**\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 1. **Valor do DAS**: Este painel mostra o valor total do DAS (Documento de Arrecadação do Simples Nacional) já com a alíquota efetiva calculada, nesse relatório é possível ver como a porcentagem sobre a receita. \
    Obs: A porcentagem mostrada nesse relatório se referencia ao valor da guia das sobre a receita total, não se trata da alíquota efetiva.
 2. **Percentual da Receita**: Este painel exibe a base de cálculo dos impostos em termos percentuais, detalhando como a receita está sendo distribuída entre os diferentes impostos.
-3. **Produtos**: Este painel mostra a divisão em valores absolutos dos diferentes impostos que compõem a apuração, facilitando a visualização dos valores destinados a cada tipo de imposto.\
-
+3. **Produtos**: Este painel mostra a divisão em valores absolutos dos diferentes impostos que compõem a apuração, facilitando a visualização dos valores destinados a cada tipo de imposto.<br>
 
 ### Painel de Auditoria
 
@@ -55,8 +51,7 @@ No painel de auditoria, é disponibilizado alguns avisos e advertências sobre a
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
-Esses avisos, são os mesmo que aparecem no painel do contador ao clicar em uma empresa, porém, aplicados para o menu de apurações, para visualizar o aviso por completo basta passar o cursor em cima dos avisos. Os avisos consistem em:\
-
+Esses avisos, são os mesmo que aparecem no painel do contador ao clicar em uma empresa, porém, aplicados para o menu de apurações, para visualizar o aviso por completo basta passar o cursor em cima dos avisos. Os avisos consistem em:<br>
 
 1. **Certificado**
    * Tem como objetivo mostrar a situação do certificado digital e sua data de vencimento
@@ -67,8 +62,7 @@ Esses avisos, são os mesmo que aparecem no painel do contador ao clicar em uma 
 4. **Inconsistências de Notas**
    * Identificar quebras de sequência ou outras inconsistências nas notas fiscais emitidas ou recebidas pela empresa. Ao importar notas fiscais para a apuração e houver quebra de sequência de numeração é necessário dar ciência ou corrigir as notas para prosseguir com a apuração.
 5. **Inconsistências de CFOP**
-   *   Identificar erros nos códigos fiscais de operações e prestações (CFOP). Este aviso mostra os CFOPs onde foram encontradas correções pelo Sittax. Ao identificar uma regra ou lei aplicável a um NCM, o aviso mostra quais produtos e notas terão seus CFOPs alterados para a realização da apuração. Ao clicar no aviso, é possível ver um relatório demonstrativo das correções que o Sefaz fez:\
-
+   *   Identificar erros nos códigos fiscais de operações e prestações (CFOP). Este aviso mostra os CFOPs onde foram encontradas correções pelo Sittax. Ao identificar uma regra ou lei aplicável a um NCM, o aviso mostra quais produtos e notas terão seus CFOPs alterados para a realização da apuração. Ao clicar no aviso, é possível ver um relatório demonstrativo das correções que o Sefaz fez:<br>
 
        <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 6. **Guia DAS Vencida**
@@ -84,21 +78,18 @@ Esses avisos, são os mesmo que aparecem no painel do contador ao clicar em uma 
 
        <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-Para aplicar as correções sugeridas, basta acessar Regras Tributárias -> Exceção PIS/COFINS ou Exceção ICMS e acatar as regras sugeridas. Após isso, é necessário que a apuração esteja aberta para as novas regras sejam aplicadas para corrigir a apuração.\
-
+Para aplicar as correções sugeridas, basta acessar Regras Tributárias -> Exceção PIS/COFINS ou Exceção ICMS e acatar as regras sugeridas. Após isso, é necessário que a apuração esteja aberta para as novas regras sejam aplicadas para corrigir a apuração.<br>
 
 ## Operando a tela de apuração
 
 A operação da tela de apuração é bem simples, ela consiste abertura e fechamento da apuração, transmissão, emissão de relatórios de conferência, etc. Toda a operação pode ser realizada nos botões do cabeçalho, no topo da tela:\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ### Ações&#x20;
 
-Ao clicar no botão "Ações" as opções mostradas dependem de como está a apuração, se ela estiver fechada, ao clicar no botão irá aparecer somente a opção de transmitir a apuração:\
-
+Ao clicar no botão "Ações" as opções mostradas dependem de como está a apuração, se ela estiver fechada, ao clicar no botão irá aparecer somente a opção de transmitir a apuração:<br>
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 

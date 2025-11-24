@@ -1,7 +1,6 @@
 # Quebra de Sequência
 
-**Relatório de Inconsistência** é uma ferramenta crucial para identificar e corrigir quebras na sequência das notas fiscais emitidas pela empresa. Ele ajuda a garantir que todas as notas fiscais sigam a sequência correta e estejam em conformidade com as regulamentações fiscais.\
-
+**Relatório de Inconsistência** é uma ferramenta crucial para identificar e corrigir quebras na sequência das notas fiscais emitidas pela empresa. Ele ajuda a garantir que todas as notas fiscais sigam a sequência correta e estejam em conformidade com as regulamentações fiscais.<br>
 
 #### Finalidade do Painel
 
@@ -16,8 +15,7 @@
 O painel inicia com uma opção à esquerda, para transitar entre a visualização da quebra de sequência e de notas canceladas:
 
 * **Quebra de sequência**: Mostra inconsistências na sequência numérica das notas fiscais.
-* **Notas canceladas**: Mostra inconsistências relacionadas às notas fiscais canceladas.\
-
+* **Notas canceladas**: Mostra inconsistências relacionadas às notas fiscais canceladas.<br>
 
 Logo abaixo, será mostrado o menu de visualização das quebras de sequência, conforme a imagem acima, nela é possível verificar quais são as quebras de sequência do período selecionado no cabeçalho da ferramenta e também dar ciência às quebras. mantendo-as e dando sequência com a apuração.
 

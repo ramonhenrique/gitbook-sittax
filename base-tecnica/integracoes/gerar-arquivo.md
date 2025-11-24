@@ -17,10 +17,8 @@ Ao selecionar para gerar o arquivo, é possível selecionar quais modelos de not
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-Agora, basta clicar em gerar e os arquivos serão gerados.\
+Agora, basta clicar em gerar e os arquivos serão gerados.<br>
 
-
-Também é possível realizar a operação em lote, para isso basta selecionar as empresas desejadas na primeira coluna da visualização, selecionar uma operação no canto inferior direito do painel e clicar no botão laranja "Realizar operação em Lote"\
-
+Também é possível realizar a operação em lote, para isso basta selecionar as empresas desejadas na primeira coluna da visualização, selecionar uma operação no canto inferior direito do painel e clicar no botão laranja "Realizar operação em Lote"<br>
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>

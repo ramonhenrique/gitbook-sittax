@@ -16,8 +16,7 @@ A tela de grupo de empresas permite criar carteiras e compilar empresas do mesmo
 Para adicionar um novo grupo de empresas:
 
 1. Clique no botão preto "Adicionar grupo de empresas" na parte superior.
-2.  Na nova tela, você verá duas opções para preenchimento:\
-
+2.  Na nova tela, você verá duas opções para preenchimento:<br>
 
     * **Adicionar CNPJ de empresas:** Aqui, você pode adicionar os CNPJs das empresas já cadastradas dentro do SITTAX.
     * **Adicionar usuários:** Logo abaixo, insira os usuários que terão acesso ao grupo de empresas.

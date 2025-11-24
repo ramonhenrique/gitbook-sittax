@@ -10,8 +10,7 @@ description: >-
 ### Etapa 1 — Download e Instalação do Aplicativo da SIEG
 
 1. Acesse o **HUB SIEG** com o login do cliente.
-2.  Vá até o menu lateral e clique em **“Todos os Serviços” → “Utilidades” → “Baixar o APP”**.\
-
+2.  Vá até o menu lateral e clique em **“Todos os Serviços” → “Utilidades” → “Baixar o APP”**.<br>
 
     <figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 3. Após o download, instale o aplicativo normalmente.
@@ -48,12 +47,10 @@ O objetivo principal é utilizar o **app do HUB SIEG** para **baixar automaticam
 #### Passos:
 
 1. Com o aplicativo aberto, clique em **Utilitários**.
-2.  Em seguida, acesse a opção **Hub / Cofre**.\
-
+2.  Em seguida, acesse a opção **Hub / Cofre**.<br>
 
     <figure><img src="../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
-3.  Você verá a tela principal de configuração do Cofre, ela será exatamente assim:\
-
+3.  Você verá a tela principal de configuração do Cofre, ela será exatamente assim:<br>
 
     <figure><img src="../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
 
@@ -132,8 +129,7 @@ O diretório é o local onde as notas serão salvas antes de serem lidas pelo NF
 Após o diretório estar populado com as notas, siga os passos abaixo para finalizar a integração:
 
 1. Abra o **NF Monitor** (dentro do Sittax Simples).
-2.  Configure o caminho de leitura para o **diretório onde as notas da SIEG estão sendo salvas**.\
-
+2.  Configure o caminho de leitura para o **diretório onde as notas da SIEG estão sendo salvas**.<br>
 
     <figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 3. O NF Monitor fará a varredura das subpastas (CNPJ / Ano / Mês) e importará as notas automaticamente para o **Sittax Simples**.

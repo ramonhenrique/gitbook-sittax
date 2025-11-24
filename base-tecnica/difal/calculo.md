@@ -51,8 +51,7 @@ A **primeira opção**, Recalcular Guia Difal, refaz o cálculo conforme a param
 
 A **segunda opção**, "Guia Revenda", tem como função realizar o download da Guia do DIFAL.
 
-A **terceira opção**, "Relatório" se trata de um relatório de conferência das notas e valores integrados ao respectivo cálculo, o relatório é gerado em EXCEL e fornece as informações de itens por notas.\
-
+A **terceira opção**, "Relatório" se trata de um relatório de conferência das notas e valores integrados ao respectivo cálculo, o relatório é gerado em EXCEL e fornece as informações de itens por notas.<br>
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 

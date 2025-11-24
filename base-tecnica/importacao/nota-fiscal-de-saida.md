@@ -10,8 +10,7 @@ No canto superior esquerdo (Item 1), você encontrará uma ferramenta de filtro.
 
 **Ações Disponíveis**
 
-Dentro da visualização das notas (Item 2), na última coluna da tabela de notas fiscais, estão disponíveis várias ações que podem ser realizadas individualmente em cada nota.\
-
+Dentro da visualização das notas (Item 2), na última coluna da tabela de notas fiscais, estão disponíveis várias ações que podem ser realizadas individualmente em cada nota.<br>
 
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,8 +25,7 @@ Dentro da visualização das notas (Item 2), na última coluna da tabela de nota
 A tela oferece a funcionalidade de operação em lote (Item 3), que é extremamente útil quando você precisa aplicar a mesma ação a várias notas fiscais de saída simultaneamente. Para utilizar esta função:
 
 * **Marcar Notas:** Na primeira coluna da tabela, selecione as notas fiscais que deseja incluir na operação em lote.
-*   **Selecionar Operação:** No rodapé da tela, escolha a operação desejada (ex: Enviar, Cancelar, Remover). \
-
+*   **Selecionar Operação:** No rodapé da tela, escolha a operação desejada (ex: Enviar, Cancelar, Remover). <br>
 
     <figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 * **Executar Operação:** Clique no botão "Realizar operação em Lote" para aplicar a ação selecionada a todas as notas marcadas.
@@ -36,8 +34,7 @@ A tela oferece a funcionalidade de operação em lote (Item 3), que é extremame
 
 Para obter uma visão detalhada de uma nota fiscal específica:
 
-*   **Clicar na Nota:** Clique em qualquer nota fiscal listada para abrir uma visualização detalhada.\
-
+*   **Clicar na Nota:** Clique em qualquer nota fiscal listada para abrir uma visualização detalhada.<br>
 
     <figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 * **Informações Exibidas:** A tela de detalhe mostrará todas as informações relevantes da nota, como itens, CFOPs (Códigos Fiscais de Operações e Prestações), datas de emissão e entrada, valores totais, destinatário, UF (Unidade Federativa) e status da nota.

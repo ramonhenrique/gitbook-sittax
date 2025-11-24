@@ -73,8 +73,7 @@ Inicialmente, um campo para a digitalização do corpo do e-mail será apresenta
 
 * **{nomeEmpresa}**: Inserir o nome da empresa do cliente.
 * **{MES}**: Inserir o mês do faturamento.
-* **{cnpj}**: Insesir o CNPJ da empresa do cliente.\
-
+* **{cnpj}**: Insesir o CNPJ da empresa do cliente.<br>
 
 Logo abaixo, é possível anexar uma imagem de cabeçalho para o E-mail, uma imagem de assinatura e uma de rodapé, basta clicar em selecionar e enviar após a seleção.
 
@@ -113,8 +112,7 @@ Para cadastrar um sócio, basta clicar em "Adicionar Sócio", preencher o nome, 
 
 ## Configurações
 
-No menu de configurações, é possível ativar e desativar avisos, notificações, tipo de pesquisa e o fuso horário. Ao clicar nessa função, o seguinte painel será mostrado:\
-
+No menu de configurações, é possível ativar e desativar avisos, notificações, tipo de pesquisa e o fuso horário. Ao clicar nessa função, o seguinte painel será mostrado:<br>
 
 <figure><img src="../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 

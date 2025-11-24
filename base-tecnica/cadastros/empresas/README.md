@@ -47,8 +47,7 @@ Este é o método mais seguro e recomendado, que consiste em importar o certific
 
 Este método é voltado para o cadastro em massa de empresas que utilizarão certificados por procuração, permitindo cadastrar muitas empresas ao mesmo tempo via planilha Excel.
 
-*   No final da página do painel de cadastro, clique no botão amarelo "Planilha Modelo" (Item 1). Uma planilha Excel será baixada contendo três colunas:\
-
+*   No final da página do painel de cadastro, clique no botão amarelo "Planilha Modelo" (Item 1). Uma planilha Excel será baixada contendo três colunas:<br>
 
     <figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption><p>A primeira coluna se remete ao CNPJ da empresa;<br>A segunda coluna ao e-mail da empresa;<br>A terceira  coluna ao certificado por procuração da empresa.<br></p></figcaption></figure>
 * Preencha os dados de suas empresas na planilha.

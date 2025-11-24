@@ -2,8 +2,7 @@
 
 A aba **Configuração de Anexo** permite configurar como determinados códigos de serviço ou CFOPs (Código Fiscal de Operações e Prestações) serão tributados, definindo o anexo correspondente. Além disso, é possível selecionar quais impostos serão considerados na apuração.
 
-Deste modo, é possível configurar uma exceção para os registros de anexos.\
-
+Deste modo, é possível configurar uma exceção para os registros de anexos.<br>
 
 <figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 

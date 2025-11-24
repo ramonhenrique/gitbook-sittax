@@ -15,8 +15,7 @@ Ao abrir este painel, um registro de receitas já lançadas será mostrado abaix
 <figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 Para realizar o lançamento de receita, basta clicar no botão preto à esquerda da tela "Adicionar Receita", que abrirá a seguinte tela:\
-\
-
+<br>
 
 <figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 

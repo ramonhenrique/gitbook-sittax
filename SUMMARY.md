@@ -54,8 +54,13 @@
   * [Gerar Arquivo](base-tecnica/integracoes/gerar-arquivo.md)
   * [Configuração Domínio x Sittax](base-tecnica/integracoes/configuracao-dominio-x-sittax.md)
   * [Configuração Domínio x Sittax (SPED Integração)](base-tecnica/integracoes/configuracao-dominio-x-sittax-sped-integracao.md)
-* [SITTAX AGENTE IA (WhatsApp)](base-tecnica/sittax-agente-ia-whatsapp.md)
 * [Integração SIEG](base-tecnica/integracao-sieg.md)
+
+## AGENTE WhatsApp
+
+***
+
+* [SITTAX AGENTE IA (WhatsApp)](sittax-agente-ia-whatsapp.md)
 
 ## F.A.Q E TUTORIAIS
 

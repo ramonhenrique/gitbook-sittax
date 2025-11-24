@@ -22,8 +22,7 @@ Na aba Dados da Empresa > Configurações, pode ser habilitado e desabilitado al
 
 Essa opção deve ser marcada para todas as empresas prestadoras de serviço que possuem Fator R pois, somente mediante a ativação dessa opção que será considerado o Fator R.\
 \
-Após a ativação, um novo painél será disponibilizado acima:\
-
+Após a ativação, um novo painél será disponibilizado acima:<br>
 
 <figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 

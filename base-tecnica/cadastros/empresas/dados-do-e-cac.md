@@ -20,8 +20,7 @@ Na aba Mensagens em Dados do E-CAC será apresentada todas as mensagens recebida
 
 ### Anexos  <a href="#anexos" id="anexos"></a>
 
-Na aba Anexoss em Dados do E-CAC será apresentado todos os anexos da empresa. \
-
+Na aba Anexoss em Dados do E-CAC será apresentado todos os anexos da empresa. <br>
 
 <figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 

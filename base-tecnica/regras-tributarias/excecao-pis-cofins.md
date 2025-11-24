@@ -1,7 +1,6 @@
 # Exceção PIS/COFINS
 
-A tela de Exceção de PIS/COFINS é usada para gerenciar as regras de tributação específicas relacionadas aos impostos PIS e COFINS. Ela permite que os usuários visualizem, criem e administrem exceções e regras, assegurando que a tributação esteja em conformidade com as leis e regulamentos vigentes. Com esta tela, é possível definir e aplicar regras específicas para diferentes NCMs, ajustar a tributação conforme a necessidade, e garantir que todas as exceções sejam devidamente registradas e ativas durante o período de vigência. Além disso, a funcionalidade de operação em lote facilita a gestão eficiente de múltiplas regras ao mesmo tempo.\
-
+A tela de Exceção de PIS/COFINS é usada para gerenciar as regras de tributação específicas relacionadas aos impostos PIS e COFINS. Ela permite que os usuários visualizem, criem e administrem exceções e regras, assegurando que a tributação esteja em conformidade com as leis e regulamentos vigentes. Com esta tela, é possível definir e aplicar regras específicas para diferentes NCMs, ajustar a tributação conforme a necessidade, e garantir que todas as exceções sejam devidamente registradas e ativas durante o período de vigência. Além disso, a funcionalidade de operação em lote facilita a gestão eficiente de múltiplas regras ao mesmo tempo.<br>
 
 Ao abrir o painel de Exceção PIS/COFINS, o seguinte menu será mostrado:
 

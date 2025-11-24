@@ -10,8 +10,7 @@ A tela de Fórmulas do DIFAL são separadas entre três filtros, eles são:
 
 Ambos operam da mesma maneira, permitindo criar fórmulas de cálculo gerais que, vinculadas ao escritório, se aplicam a todas as empresas cadastradas ou, mais especificamente, por empresas, sendo aplicada diretamente e unicamente na empresa vinculada à fórmula.
 
-Para editar uma regra já existente, basta clicar no corpo do registro dentro da própria visualização das regras existentes, conforme o exemplo:\
-
+Para editar uma regra já existente, basta clicar no corpo do registro dentro da própria visualização das regras existentes, conforme o exemplo:<br>
 
 <figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,13 +23,11 @@ Para realizar o cadastro de uma nova fórmula basta clicar no ícone preto "Adic
 Observação: Caso seja selecionado para criar uma nova fórmula para uma empresa específica, um segundo campo chamado "Empresa" será disponibilizado abaixo do "Estado" para realizar a seleção.
 
 Após a visualização do painel, é possível checar quais fórmulas já existem e cadastrar uma nova no botão laranja "Adicionar".\
-Ao clicar em adicionar, o seguinte campo será disponibilizado:\
-
+Ao clicar em adicionar, o seguinte campo será disponibilizado:<br>
 
 <figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
-Para realizar o preenchimento, basta preencher os seguintes campos:\
-
+Para realizar o preenchimento, basta preencher os seguintes campos:<br>
 
 **1. Operação DIFAL**
 
@@ -79,8 +76,7 @@ Observação: Existe um ícone "?" ao lado de cada item que especifica como func
     * **AliquotaExterna**
     * **AliquotaInterestadual**
     * **AliquotaFECOEP**
-    * **AliquotaBeneficio**\
-
+    * **AliquotaBeneficio**<br>
 
     **Exemplo:**&#x20;
 

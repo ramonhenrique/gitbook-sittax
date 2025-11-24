@@ -16,16 +16,14 @@ Para redefinir a senha, siga estes passos:
 
 Após isso, um e-mail será enviado para o endereço informado, permitindo a alteração da senha.\
 ![](<../../.gitbook/assets/Email enviado.png>)\
-\
-
+<br>
 
 **Exemplo de E-mail de Recuperação**
 
 Acima está um exemplo do e-mail que será recebido na sua caixa de entrada. Em alguns casos, esse e-mail pode chegar na pasta de spam ou até mesmo em e-mails excluídos. O e-mail informará que a solicitação de recuperação de senha foi realizada.
 
 Para continuar, clique no botão laranja "Criar nova senha" no final do e-mail.\
-Após clicar no botão do e-mail, você será redirecionado para a tela de alteração de senha.\
-
+Após clicar no botão do e-mail, você será redirecionado para a tela de alteração de senha.<br>
 
 Após clicar no botão do e-mail, você será redirecionado para a tela de alteração de senha. Nesta tela:
 

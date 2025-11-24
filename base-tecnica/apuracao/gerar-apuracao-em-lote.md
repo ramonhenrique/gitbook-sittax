@@ -1,7 +1,6 @@
 # Gerar apuração em lote
 
-A **Tela de Apuração em Lote** do SITTAX facilita o cálculo e a transmissão de apurações fiscais para múltiplas empresas simultaneamente. Ela economiza tempo e garante a conformidade tributária, permitindo a gestão eficiente das apurações. A tela permite realizar o cálculo e a transmissão de apurações em massa, visualizando os valores das apurações diretamente no painel. Ela disponibiliza as mesmas funções da apuração padrão, com a vantagem de operar em lote.\
-
+A **Tela de Apuração em Lote** do SITTAX facilita o cálculo e a transmissão de apurações fiscais para múltiplas empresas simultaneamente. Ela economiza tempo e garante a conformidade tributária, permitindo a gestão eficiente das apurações. A tela permite realizar o cálculo e a transmissão de apurações em massa, visualizando os valores das apurações diretamente no painel. Ela disponibiliza as mesmas funções da apuração padrão, com a vantagem de operar em lote.<br>
 
 Ao abrir o menu "Apuração em Lote" a seguinte tela será visualizada:
 

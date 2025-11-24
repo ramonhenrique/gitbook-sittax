@@ -11,8 +11,7 @@ A tela de Exceção de ICMS é usada para gerenciar as regras de tributação es
 
 Alimentada tanto pela tela de sugestões do próprio Sittax quanto pela adição manual de regras, essa ferramenta possibilita definir e aplicar regras específicas para diferentes NCMs e CESTs, ajustando a tributação conforme necessário. Os usuários podem garantir que todas as exceções estejam devidamente registradas e ativas durante o período de vigência. Além disso, a funcionalidade de operação em lote facilita a gestão eficiente de múltiplas regras simultaneamente, tornando a administração das regras de ICMS mais ágil e eficaz.
 
-Ao abrir o painel de Exceção ICMS, o seguinte menu será mostrado:\
-
+Ao abrir o painel de Exceção ICMS, o seguinte menu será mostrado:<br>
 
 <figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,15 +61,13 @@ Ao abrir o painel de Exceção ICMS, o seguinte menu será mostrado:\
 
 ## Importar por Excel
 
-Este método é voltado para o cadastro em massa de regras de ICMS. Siga os passos abaixo para realizar o cadastro:\
-
+Este método é voltado para o cadastro em massa de regras de ICMS. Siga os passos abaixo para realizar o cadastro:<br>
 
 <figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
 1. **Baixar Planilha Modelo**
    * No final da página do painel de cadastro, clique no botão amarelo "Planilha Modelo" (Item 1).
-   *   Uma planilha Excel será baixada contendo 5 colunas: NCM, Data de Início e Fim da Vigência, Legislação ICMS e Tipo da Tributação ICMS.\
-
+   *   Uma planilha Excel será baixada contendo 5 colunas: NCM, Data de Início e Fim da Vigência, Legislação ICMS e Tipo da Tributação ICMS.<br>
 
        <figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 2. **Preencher Planilha**
@@ -85,8 +82,7 @@ Este método é voltado para o cadastro em massa de regras de ICMS. Siga os pass
 
 ## Sugestão
 
-Nessa tela, é possível ver as regras sugeridas pelo Sittax, essas regras são formuladas baseadas nas notas já importadas ao sistema e na configuração da empresa (UF, Cidade, CNAEs, etc..). Ao ser definida uma sugestão do sistema, ela irá aparecer no seguinte painel:\
-
+Nessa tela, é possível ver as regras sugeridas pelo Sittax, essas regras são formuladas baseadas nas notas já importadas ao sistema e na configuração da empresa (UF, Cidade, CNAEs, etc..). Ao ser definida uma sugestão do sistema, ela irá aparecer no seguinte painel:<br>
 
 <figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 

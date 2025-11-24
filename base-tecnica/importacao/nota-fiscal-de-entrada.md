@@ -47,8 +47,7 @@ Para utilizar esta função, siga os passos adiante:
 
 Para obter uma visão detalhada de uma nota fiscal específica:
 
-1.  **Clicar na Nota:** Clique em qualquer nota fiscal listada para abrir uma visualização detalhada.\
-
+1.  **Clicar na Nota:** Clique em qualquer nota fiscal listada para abrir uma visualização detalhada.<br>
 
     <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 2. **Informações Exibidas:** A tela de detalhe mostrará todas as informações relevantes da nota, como itens, CFOPs (Códigos Fiscais de Operações e Prestações), datas de emissão e entrada, valores totais, emitente, UF (Unidade Federativa) e status da nota.
