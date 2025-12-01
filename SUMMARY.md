@@ -80,6 +80,7 @@
   * [Não conseguimos converter o(s) CFOP(s) de saídas das notas de entrada. Como resolver?](perguntas-frequentes-e-solucoes-operacionais/nao-conseguimos-converter-o-s-cfop-s-de-saidas-das-notas-de-entrada.-como-resolver.md)
   * [Notas emitidas com CFOP incorreto impactando o Anexo. Como corrigir?](perguntas-frequentes-e-solucoes-operacionais/notas-emitidas-com-cfop-incorreto-impactando-o-anexo.-como-corrigir.md)
   * [Como atualizar a Razão Social da empresa?](perguntas-frequentes-e-solucoes-operacionais/como-atualizar-a-razao-social-da-empresa.md)
+  * [Como transmitir apurações das empresas em lote?](perguntas-frequentes-e-solucoes-operacionais/como-transmitir-apuracoes-das-empresas-em-lote.md)
 * [GUIAS E TUTORIAIS](guias-e-tutoriais/README.md)
   * [Como funciona o Simples Nacional?](guias-e-tutoriais/como-funciona-o-simples-nacional.md)
   * [Como analisar o Relatório de Conferência?](guias-e-tutoriais/como-analisar-o-relatorio-de-conferencia.md)
