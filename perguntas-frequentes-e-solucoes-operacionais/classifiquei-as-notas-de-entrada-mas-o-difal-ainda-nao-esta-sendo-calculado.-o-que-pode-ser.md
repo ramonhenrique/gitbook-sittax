@@ -12,7 +12,7 @@ Um fator importante que é preciso ser validado no processo de classificação d
 
 Caso você não queira esperar este prazo e queira antecipar a inserção das informações de **Datas de Entrada**, siga o seguinte procedimento a seguir:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Acesse a tela **Nota Fiscal de Entrada**
 2. Marque todas as notas de entrada importadas
@@ -24,4 +24,4 @@ Ao clicar em **Realizar operação em lote**, será aberto a tela **Alterar data
 * Selecione **Adicionar Dias**
 *   Finalize clicando em **Confirmar**
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
