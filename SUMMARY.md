@@ -52,9 +52,13 @@
 * [INTEGRAÇÔES](base-tecnica/integracoes/README.md)
   * [Tipo de Entrada](base-tecnica/integracoes/tipo-de-entrada.md)
   * [Gerar Arquivo](base-tecnica/integracoes/gerar-arquivo.md)
-  * [Configuração Domínio x Sittax](base-tecnica/integracoes/configuracao-dominio-x-sittax.md)
-  * [Configuração Domínio x Sittax (SPED Integração)](base-tecnica/integracoes/configuracao-dominio-x-sittax-sped-integracao.md)
-* [Integração SIEG](base-tecnica/integracao-sieg.md)
+
+## Integrações e Configurações com Sistemas Externos
+
+* [Configuração Domínio x Sittax (XML Integração)](integracoes-e-configuracoes-com-sistemas-externos/configuracao-dominio-x-sittax-xml-integracao.md)
+* [Configuração Domínio x Sittax (SPED Integração)](integracoes-e-configuracoes-com-sistemas-externos/configuracao-dominio-x-sittax-sped-integracao.md)
+* [Configuração Sittax x Questor](integracoes-e-configuracoes-com-sistemas-externos/configuracao-sittax-x-questor.md)
+* [Integração/Configuração SIEG](integracoes-e-configuracoes-com-sistemas-externos/integracao-configuracao-sieg.md)
 
 ## AGENTE IA WhatsApp
 
