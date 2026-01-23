@@ -8,7 +8,7 @@ Para redefinir a senha, siga estes passos:
 
 1.  Clique na mensagem "Esqueceu sua senha?" localizada acima do botão de acesso.
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  O menu de recuperação de senha aparecerá. No campo indicado (Item 1 da imagem a seguir), digite o e-mail do usuário que deseja alterar a senha.
 
     <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

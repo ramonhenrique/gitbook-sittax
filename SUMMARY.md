@@ -59,6 +59,7 @@
 * [Configuração Domínio x Sittax (SPED Integração)](integracoes-e-configuracoes-com-sistemas-externos/configuracao-dominio-x-sittax-sped-integracao.md)
 * [Configuração Sittax x Questor](integracoes-e-configuracoes-com-sistemas-externos/configuracao-sittax-x-questor.md)
 * [Integração/Configuração SIEG](integracoes-e-configuracoes-com-sistemas-externos/integracao-configuracao-sieg.md)
+* [Integração/Configuração SIEG API](integracoes-e-configuracoes-com-sistemas-externos/integracao-configuracao-sieg-api.md)
 
 ## AGENTE IA WhatsApp
 

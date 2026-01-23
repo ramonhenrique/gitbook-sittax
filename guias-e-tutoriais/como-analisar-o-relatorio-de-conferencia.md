@@ -8,7 +8,7 @@ O Relatório de Conferência é um recurso do Sittax que permite comparar os dad
 
 Para acessar o Relatório de Conferência, siga este passo a passo:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. No menu lateral esquerdo, clique em **“Apuração”;**
 2. Em seguida, selecione **“Gerar Apuração”;**

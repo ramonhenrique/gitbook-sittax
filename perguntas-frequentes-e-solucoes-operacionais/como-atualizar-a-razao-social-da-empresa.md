@@ -5,12 +5,12 @@
 2.  **Abra a aba “Documentos Fiscais”**\
     Dentro da tela de Importação, selecione a aba **Documentos Fiscais**.
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
     \
     _(Alternativamente, você pode acessar a mesma tela clicando no ícone **Importar**, no canto superior direito da ferramenta.)_
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. **Clique em “Importe seus arquivos”**\
    Na parte superior da tela, selecione o botão **Importe seus arquivos**.
 4. **Importe o PDF do Cartão CNPJ atualizado**\
