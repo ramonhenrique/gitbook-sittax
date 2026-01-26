@@ -61,9 +61,9 @@
 * [Integração/Configuração SIEG (App SIEG x NF-Monitor)](integracoes-e-configuracoes-com-sistemas-externos/integracao-configuracao-sieg-app-sieg-x-nf-monitor.md)
 * [Integração/Configuração SIEG API](integracoes-e-configuracoes-com-sistemas-externos/integracao-configuracao-sieg-api.md)
 
-***
+## SITTAX ST
 
-* [Manual Sittax ST](manual-sittax-st.md)
+* [Manual da Plataforma (Sittax ST)](sittax-st/manual-da-plataforma-sittax-st.md)
 
 ## AGENTE I.A WhatsApp
 
