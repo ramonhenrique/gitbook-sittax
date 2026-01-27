@@ -6,7 +6,7 @@ description: >-
 icon: square-whatsapp
 ---
 
-# SITTAX AGENTE IA (WhatsApp)
+# SITTAX AGENTE I.A (WhatsApp)
 
 O Agente IA da Sittax é a inteligência artificial própria da Sittax que conecta o **WhatsApp** à plataforma.\
 Ele foi desenvolvido para simplificar a experiência dos escritórios de contabilidade, permitindo que ações que antes exigiam navegação no sistema sejam feitas de forma conversacional.\
@@ -22,13 +22,13 @@ Para cadastrar o WhatsApp de um usuário:
 
 1.  Acesse o menu de **Cadastro de Usuários** no escritório.<br>
 
-    <figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 2. Edite ou crie o usuário que fará as solicitações.<br>
 3.  Preencha corretamente o campo de **WhatsApp**.<br>
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4. Salve as alterações.

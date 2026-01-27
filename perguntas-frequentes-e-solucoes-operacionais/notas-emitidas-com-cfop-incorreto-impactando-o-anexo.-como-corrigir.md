@@ -29,4 +29,4 @@ Já para empresas com grande volume de notas, o ideal é utilizar a tela **Confi
 4. **Salve as alterações**\
    Clique em **“Salvar”** para confirmar a configuração.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

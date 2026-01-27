@@ -4,7 +4,7 @@ Esta é a tela principal de apuração do sistema, essencial para consolidar e a
 \
 Ao abrir o menu de gerar apuração, um dashboard informativo será informado:<br>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Deste modo, esse dashboard é separado em duas partes:
 

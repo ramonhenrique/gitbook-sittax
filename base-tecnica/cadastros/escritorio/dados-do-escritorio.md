@@ -125,12 +125,12 @@ No menu de configurações, é possível ativar e desativar avisos, notificaçõ
 
 Neste painel, é possível configurar a integração do Sittax com o serviço do SIEG, permitindo que as notas de saída e de entrada sejam importadas automaticamente para o sistema. Ao acessar este painel, siga os passos abaixo para realizar a configuração:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1. Acesse a aba "Configurações"**\
 Na tela **Dados do Escritório**, clique no botão **Configurações** localizado na parte superior da seção.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Preencha os dados de integração SIEG**\
 Na janela **Serviços**, insira as informações obrigatórias:
@@ -161,7 +161,7 @@ Após preencher a API Key, finalize clicando no botão **Salvar** para concluir 
 
 ## Financeiro
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A aba **Financeiro** é destinada exclusivamente ao **administrador do escritório** e tem como objetivo centralizar todas as informações relacionadas aos pagamentos da assinatura da ferramenta.
 
