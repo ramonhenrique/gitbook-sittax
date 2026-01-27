@@ -7,11 +7,11 @@ Dentro da configuração do escritório, é possível configurar a integração 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1. Acesse a aba "Configurações"**\
-Na tela **Dados do Escritório**, clique no botão **Configurações** localizado na parte superior da seção.
+Na tela **Dados do Escritório**, clique no botão **Configurações** localizado na parte superior da seção.<br>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
-### Dados Necessários para Integração
+### Dados Necessários para Integraçã<sub>o</sub>
 
 Na janela **Serviços**, é obrigatório informar os seguintes dados:
 
