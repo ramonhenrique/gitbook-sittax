@@ -8,7 +8,7 @@ O painel principal foi criado com o intuito de demonstrar as informações sobre
 
 Assim que entrar na ferramenta, esta é a primeira tela apresentada: &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Informações do Painel &#x20;
 
@@ -70,7 +70,7 @@ A imagem a seguir apresenta a seção da ferramenta onde é possível acompanhar
 
 A imagem a seguir destaca três recursos disponíveis na interface da ferramenta:
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * **Ações em lote**: permite aplicar ações simultâneas a múltiplos registros da tabela, otimizando o processo
 * **Sem Ordenação**: filtro que possibilita ordenar os dados conforme diferentes critérios, como valor ou nome da empresa
