@@ -28,7 +28,7 @@ Para cadastrar o WhatsApp de um usuário:
 2. Edite ou crie o usuário que fará as solicitações.<br>
 3.  Preencha corretamente o campo de **WhatsApp**.<br>
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4. Salve as alterações.

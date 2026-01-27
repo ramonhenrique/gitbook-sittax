@@ -8,7 +8,7 @@ O painel principal foi criado com o intuito de demonstrar as informações sobre
 
 Assim que entrar na ferramenta, esta é a primeira tela apresentada: &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Informações do Painel &#x20;
 

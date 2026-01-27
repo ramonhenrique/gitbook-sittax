@@ -10,7 +10,7 @@
     \
     _(Alternativamente, você pode acessar a mesma tela clicando no ícone **Importar**, no canto superior direito da ferramenta.)_
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. **Clique em “Importe seus arquivos”**\
    Na parte superior da tela, selecione o botão **Importe seus arquivos**.
 4. **Importe o PDF do Cartão CNPJ atualizado**\
