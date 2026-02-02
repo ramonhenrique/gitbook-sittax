@@ -123,24 +123,70 @@ No menu de configurações, é possível ativar e desativar avisos, notificaçõ
 
 ## SIEG
 
-Neste painel, é possível configurar a integração do Sittax com o serviço do SIEG, permitindo que as notas de saída e de entrada sejam importadas automaticamente para o sistema. Ao acessar este painel, siga os passos abaixo para realizar a configuração:
+Dentro da configuração do escritório, é possível configurar a integração do Sittax com o serviço do SIEG, permitindo que as notas de saída e de entrada sejam importadas automaticamente para o sistema. Ao acessar este painel, siga os passos abaixo para realizar a configuração:
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://edu.sittax.com.br/sittax-base-conhecimento/~gitbook/image?url=https%3A%2F%2F2688983956-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOLejyHkoluGzXQSWUsNa%252Fuploads%252FT9l3AGa7dJfHXeaWimLs%252Fimage.png%3Falt%3Dmedia%26token%3Df4da30de-274d-4154-9fad-8b8da00092ff&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=5bc44217&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-**1. Acesse a aba "Configurações"**\
-Na tela **Dados do Escritório**, clique no botão **Configurações** localizado na parte superior da seção.
+**1. Acesse a aba "Configurações"** Na tela **Dados do Escritório**, clique no botão **Configurações** localizado na parte superior da seção.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://edu.sittax.com.br/sittax-base-conhecimento/~gitbook/image?url=https%3A%2F%2F2688983956-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOLejyHkoluGzXQSWUsNa%252Fuploads%252FkekceTv1bRgRblNYedfU%252Fimage.png%3Falt%3Dmedia%26token%3Dc2a51a57-4d54-4c83-a955-4e714c108576&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=a1b8cf7c&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-**2. Preencha os dados de integração SIEG**\
-Na janela **Serviços**, insira as informações obrigatórias:
+#### Dados Necessários para Integraçã<sub>o</sub> <a href="#dados-necessarios-para-integracao" id="dados-necessarios-para-integracao"></a>
+
+Na janela **Serviços**, é obrigatório informar os seguintes dados:
 
 * **API Key SIEG**
 * **E-mail SIEG**
 * **Senha SIEG**
 
-**3. Clique em "Salvar"**\
-Após preencher os campos corretamente, finalize clicando no botão **Salvar** para concluir a configuração.
+Essas informações devem ser exatamente as mesmas utilizadas no cadastro e na geração da API dentro da SIEG.
+
+***
+
+#### Transição das APIs SIEG <a href="#transicao-das-apis-sieg" id="transicao-das-apis-sieg"></a>
+
+<figure><img src="https://edu.sittax.com.br/sittax-base-conhecimento/~gitbook/image?url=https%3A%2F%2F2688983956-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOLejyHkoluGzXQSWUsNa%252Fuploads%252FcmxMxgsDED5ynrTtgF39%252Fimage.png%3Falt%3Dmedia%26token%3D4fdc1a89-c693-4942-9c2d-31d883c79077&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=a5fbffe0&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+
+**1. API Antiga**
+
+* A **API antiga** continuará funcionando **somente até 31/07/2026**.
+* Após essa data, a integração deixará de funcionar caso a migração não seja realizada.
+* Recomendamos fortemente **não aguardar o prazo final** para realizar a troca.
+
+***
+
+**2. Nova API (Obrigatória)**
+
+A **Nova API SIEG** oferece melhorias de desempenho, estabilidade e segurança.
+
+**Como gerar a Nova API na SIEG**
+
+1. Acesse o painel da **SIEG**.
+2.  Clique na opção **“Gerar nova chave API”**.
+
+
+
+    <figure><img src="https://edu.sittax.com.br/sittax-base-conhecimento/~gitbook/image?url=https%3A%2F%2F2688983956-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FOLejyHkoluGzXQSWUsNa%252Fuploads%252FrFzF8W3tmY1UgZmYDPAc%252Fimage.png%3Falt%3Dmedia%26token%3D2c7d2893-c35e-4f22-9778-9d2b8643ffb3&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=bdc563c0&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+3. Preencha os campos conforme abaixo:
+   * **Nome de identificação:** escolha um nome que facilite a identificação (ex: _Integração Sittax_).
+   * **Prazo de expiração:** selecione **5 anos (60 meses)**.
+   * **Nível de permissões:** marque **Acesso total**.
+4. Confirme a geração da chave.
+5. **Copie o código da chave API gerada**.
+
+***
+
+#### Configuração da Nova API no Sittax <a href="#configuracao-da-nova-api-no-sittax" id="configuracao-da-nova-api-no-sittax"></a>
+
+Após gerar a nova chave na SIEG:
+
+1. Acesse o **Sittax**.
+2. Vá até a janela SIEG dentro da configuração do Escritório.
+3. Preencha os campos com:
+   * **API Key SIEG:** cole a nova chave gerada.
+   * **E-mail SIEG:** e-mail utilizado na criação da API.
+   * **Senha SIEG:** senha correspondente ao mesmo usuário.
+4. Salve as alterações.
 
 ## Acessórias
 
