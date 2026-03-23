@@ -22,4 +22,8 @@ Após preencher corretamente o código, finalize clicando no botão **Salvar** p
 
 O código de serviço informado no campo **Código de Serviço** deve ser exatamente o mesmo que consta no **XML da Nota Fiscal de Serviço**. Para identificar esse código de forma rápida e prática, recomenda-se baixar o **Relatório de Conferência** da empresa em análise.
 
-Para mais detalhes sobre como utilizar o Relatório de Conferência, consulte a seção específica disponível abaixo:
+Para mais detalhes sobre como utilizar o **Relatório de Conferência**, consulte a seção específica disponível abaixo:
+
+{% content-ref url="como-analisar-o-relatorio-de-conferencia.md" %}
+[como-analisar-o-relatorio-de-conferencia.md](como-analisar-o-relatorio-de-conferencia.md)
+{% endcontent-ref %}
