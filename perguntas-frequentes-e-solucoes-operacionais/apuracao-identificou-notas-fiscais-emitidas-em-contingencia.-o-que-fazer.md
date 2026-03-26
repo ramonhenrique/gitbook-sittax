@@ -34,4 +34,4 @@ Com as notas selecionadas, clique em Selecione a operação e escolha Autorizar 
 **5. Clique em "Realizar operação em lote"**\
 Finalize clicando em Realizar operação em lote para autorizar todas as notas selecionadas.
 
-<figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
