@@ -18,12 +18,12 @@ Abaixo está o procedimento completo para localizar e autorizar manualmente as n
 ## Como autorizar notas emitidas em contingência para tributarem na apuração?
 
 **1. Acesse a tela "Nota Fiscal de Saída"**\
-No sistema, abra o menu lateral esquerdo e entre em Documentos Fiscais > Nota Fiscal de Saída.<br>
+No sistema, abra o menu lateral esquerdo e entre em Documentos Fiscais > Nota Fiscal de Saída.
 
 <figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 **2. Filtre as notas em "Contingência"**\
-Dentro da tela "Nota Fiscal de Saída", utilize o filtro superior para visualizar apenas as notas em contingência: Selecione um filtro >> Status >> CONTINGÊNCIA.<br>
+Dentro da tela "Nota Fiscal de Saída", utilize o filtro superior para visualizar apenas as notas em contingência: Selecione um filtro >> Status >> CONTINGÊNCIA.
 
 **3. Selecione todas as notas em Contingência**\
 Após aplicar o filtro, a tela exibirá todas as notas marcadas como contingência. Marque todas as notas clicando nas caixas de seleção.
