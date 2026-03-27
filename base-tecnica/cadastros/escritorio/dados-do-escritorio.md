@@ -207,7 +207,7 @@ Após preencher a API Key, finalize clicando no botão **Salvar** para concluir 
 
 ## Financeiro
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A aba **Financeiro** é destinada exclusivamente ao **administrador do escritório** e tem como objetivo centralizar todas as informações relacionadas aos pagamentos da assinatura da ferramenta.
 
