@@ -6,7 +6,7 @@
 
 Anteriormente, o relatório de conferência era disponibilizado em uma única planilha de Excel contendo duas abas. Nessas abas, os cálculos realizados pela plataforma nas modalidades XML e Sittax eram apresentados de forma mesclada.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>Imagem do relatório ANTIGO e sua mesclagem de informações.</p></figcaption></figure>
 
 Esse formato gerava alta complexidade na análise, pois reunia grande volume de informações em um único local. Como consequência, usuários frequentemente precisavam realizar diversas manipulações manuais na planilha para conseguir visualizar apenas os dados relevantes para sua conferência.
 
