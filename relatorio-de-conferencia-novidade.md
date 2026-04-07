@@ -82,13 +82,27 @@ Essa seção permite:
 
 Mesmo sendo um relatório de conferência, a estrutura permite validações profundas do processo de cálculo.
 
+#### 4.3 O que tem de novo?
+
+**Visualização de Valor da Nota e separação da Base de Cálculo**
+
+Foi implementada a visualização não apenas da coluna com o valor da nota, mas também da base de cálculo vinculada a ela.
+
+Com isso, torna-se possível identificar com maior clareza:
+
+* Deduções que impactam a base de cálculo
+* Devoluções totais ou parciais
+* Diferenças entre o valor da nota e a base considerada para tributação
+
+Essa melhoria permite, por exemplo, identificar produtos com devoluções parciais de forma direta, aumentando significativamente a transparência e a precisão da conferência.
+
 ***
 
-#### 4.3 Resumo Sittax e Resumo XML
+#### 4.4 Resumo Sittax e Resumo XML
 
 Nesta seção, os dados são consolidados para facilitar a análise geral da tributação.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 
 São apresentados os seguintes agrupamentos:
 
@@ -103,11 +117,13 @@ Esse resumo foi projetado para:
 * Apoiar validações com os resumos por acumulador do sistema Domínio
 * Auxiliar na identificação de inconsistências
 
+Além disso, agora trazemos a visualização das DEVOLUÇÕES e DEDUÇÕES sendo aplicada diretamente na receita líquida.
+
 Adicionalmente, são listados os NCMs de devolução, contribuindo para configurações e validações no Domínio.
 
 ***
 
-#### 4.4 Resumo por CFOP (Sittax e XML)
+#### 4.5 Resumo por CFOP (Sittax e XML)
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -157,9 +173,47 @@ Uma das formas mais funcionais de realizar auditoria dos produtos, é realizando
 4. Anule todas as seleções e selecione as opções "Código do Item" e "Descrição do Item" apenas;
 5. Pronto, você terá um relatório enxuto que tratá apenas um exemplar de cada produto.
 
+#### 6.1 Comparando Antes e Depois da correção Sittax
+
+Para realizar a análise das correções aplicadas pelo Sittax no processo de auditoria, recomenda-se utilizar a planilha **Apuração Sittax**.
+
+Nessa visão, o usuário terá acesso às referências originais da XML, como:
+
+* CFOP da nota
+* CSOSN
+* CST de PIS/COFINS
+
+Esses campos servem como base para validação das operações em relação às alterações realizadas pelo Sittax.
+
+Para identificar as diferenças, devem ser utilizadas principalmente as colunas:
+
+* Valor ICMS
+* Valor PIS
+* Valor COFINS
+* Base Legal
+* Tipo da Tributação do ICMS
+
+A comparação pode ser feita de forma prática utilizando filtros na planilha.
+
+**Exemplo de análise:**
+
+É possível aplicar filtros para identificar produtos que, na nota original, possuem:
+
+* CSOSN 500, que naturalmente seriam produtos com SUBSTITUIÇÃO TRIBUTÁRIA
+
+Em seguida, ao filtrar a coluna **Tipo da Tributação do ICMS** para exibir apenas registros preenchidos como TRIBUTADO, torna-se possível identificar quais produtos sofreram alterações pelo Sittax.
+
+<figure><img src=".gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+
+O mesmo raciocínio se aplica ao PIS/COFINS: ao cruzar o CST com a Base Legal, é possível identificar o tratamento tributário. Quando há Base Legal preenchida, o produto é classificado como MONOFÁSICO; quando não há, ele é considerado TRIBUTADO.
+
+Nesse caso temos um produto com CST 99 (que é interpretado naturalmente como um produto tributado) mas que possui uma Base Legal identificada pela Sittax, definindo que esse produto na verdade deveria ser Monofásico de PIS/COFINS.
+
+<figure><img src=".gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
-### 6. Conclusão
+### 7. Conclusão
 
 A reformulação do relatório de conferência representa um avanço importante na usabilidade e eficiência da plataforma.
 
