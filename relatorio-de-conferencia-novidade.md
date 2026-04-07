@@ -40,13 +40,13 @@ A separação clara das informações evita ambiguidades, melhora a legibilidade
 
 O novo relatório passa a priorizar a clareza da conferência, separando as informações por tipo de apuração e permitindo melhor rastreabilidade dos valores.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.1 Apuração Sittax
 
 Nesta seção, são apresentadas todas as informações relacionadas à emissão das notas fiscais com base na apuração realizada pelo Sittax.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Inclui:
 
@@ -87,6 +87,8 @@ Mesmo sendo um relatório de conferência, a estrutura permite validações prof
 **Visualização de Valor da Nota e separação da Base de Cálculo**
 
 Foi implementada a visualização não apenas da coluna com o valor da nota, mas também da base de cálculo vinculada a ela.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Com isso, torna-se possível identificar com maior clareza:
 

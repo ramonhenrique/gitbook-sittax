@@ -25,7 +25,7 @@ Essas informações devem ser exatamente as mesmas utilizadas no cadastro e na g
 
 ### Transição das APIs SIEG
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. API Antiga
 
