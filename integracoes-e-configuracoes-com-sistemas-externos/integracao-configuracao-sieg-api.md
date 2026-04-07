@@ -4,7 +4,7 @@
 
 Dentro da configuração do escritório, é possível configurar a integração do Sittax com o serviço do SIEG, permitindo que as notas de saída e de entrada sejam importadas automaticamente para o sistema. Ao acessar este painel, siga os passos abaixo para realizar a configuração:
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **1. Acesse a aba "Configurações"**\
 Na tela **Dados do Escritório**, clique no botão **Configurações** localizado na parte superior da seção.<br>
@@ -25,7 +25,7 @@ Essas informações devem ser exatamente as mesmas utilizadas no cadastro e na g
 
 ### Transição das APIs SIEG
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1. API Antiga
 

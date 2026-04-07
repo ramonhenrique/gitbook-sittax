@@ -8,7 +8,7 @@ O painel principal foi criado com o intuito de demonstrar as informações sobre
 
 Assim que entrar na ferramenta, esta é a primeira tela apresentada: &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Informações do Painel &#x20;
 
@@ -22,11 +22,11 @@ Algumas das funcionalidades são: &#x20;
 
 Na imagem abaixo é possível ver alguns filtros clicáveis, ao clicar em algum deles, o painel principal mudará para um modo de visualização diferente. Para retornar a visualizar o painel principal, apenas clique no mesmo filtro que foi clicado.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 A imagem abaixo demonstra a tabela da pagina principal, o que está contornado de verde é um campo de pesquisa, onde você pode pesquisar a empresa pelo nome da empresa para poder filtrar na tabela. O que está contornado de vermelho é o titulo de cada coluna da tabela.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * "Empresa" é a coluna do nome da empresa.
 * "Produtos" é o valor de receita relacionada a produtos da empresa.
@@ -51,7 +51,7 @@ Ao clicar no botão "Ações", será exibido opções que podem estar sendo exec
 
 A imagem a seguir destaca o **painel de navegação superior** da ferramenta, onde estão concentradas as principais funcionalidades operacionais utilizadas no dia a dia da contabilidade. Estes botões permitem acesso rápido a ações como apuração de impostos, consulta de DIFAL, importação de arquivos e acompanhamento de tarefas em andamento.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Apurar:** Acesso à tela de apuração dos tributos e receitas
 * **DIFAL:** Direciona para a área específica do DIFAL, onde é possível acompanhar e validar os valores devidos nas operações interestaduais
@@ -63,14 +63,14 @@ A imagem a seguir destaca o **painel de navegação superior** da ferramenta, on
 
 A imagem a seguir apresenta a seção da ferramenta onde é possível acompanhar o status das empresas processados. Estes indicadores fornecem uma visão geral sobre a quantidade de empresas **transmitidas**, **não transmitidas** e aquelas **sem automatização**.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Transmitidas:** Exibe a quantidade total de empresas que já foram **transmitidos com sucesso**
 * **Não Transmitidas:** Aponta o número de empresas que ainda **não foram transmitidos**
 
 A imagem a seguir destaca três recursos disponíveis na interface da ferramenta:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Ações em lote**: permite aplicar ações simultâneas a múltiplos registros da tabela, otimizando o processo
 * **Sem Ordenação**: filtro que possibilita ordenar os dados conforme diferentes critérios, como valor ou nome da empresa

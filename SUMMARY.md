@@ -53,6 +53,10 @@
   * [Tipo de Entrada](base-tecnica/integracoes/tipo-de-entrada.md)
   * [Gerar Arquivo](base-tecnica/integracoes/gerar-arquivo.md)
 
+***
+
+* [Relatório de Conferência - Novidade](relatorio-de-conferencia-novidade.md)
+
 ## Integrações e Configurações com Sistemas Externos
 
 * [Configuração Domínio x Sittax (XML Integração)](integracoes-e-configuracoes-com-sistemas-externos/configuracao-dominio-x-sittax-xml-integracao.md)

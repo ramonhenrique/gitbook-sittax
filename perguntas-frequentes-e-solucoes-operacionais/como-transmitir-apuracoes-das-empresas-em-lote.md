@@ -1,6 +1,6 @@
 # Como transmitir apurações das empresas em lote?
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Para realizar a transmissão em lote das empresas dentro da tela de **Apurações Automatizadas**, siga as etapas abaixo:
 
