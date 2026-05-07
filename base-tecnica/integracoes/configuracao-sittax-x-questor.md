@@ -21,16 +21,16 @@ Utilize este modelo principalmente quando a empresa:
 No menu lateral da Sittax, acesse:\
 **Integrações › Gerar Arquivo**
 
-<figure><img src="../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
 
 Em seguida, dentro desse fluxo, clique em:\
 **Arquivos XML (Questor) › Configuração Integração Contábil**
 
-<figure><img src="../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
 
 **2. Configure as “Naturezas Questor” na Sittax**
 
-<figure><img src="../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
 
 Na tela **Gerar Arquivos de Integração**, localize a seção **Naturezas Questor** e configure conforme as naturezas já utilizadas no ERP Questor do cliente.
 

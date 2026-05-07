@@ -3,6 +3,7 @@ description: >-
   A inteligência artificial propria da Sittax que conecta o WhatsApp à
   plataforma. Com ele, clientes conseguem consultar informações e executar
   rotinas fiscais diretamente pelo aplicativo de mensagens!
+hidden: true
 icon: square-whatsapp
 ---
 

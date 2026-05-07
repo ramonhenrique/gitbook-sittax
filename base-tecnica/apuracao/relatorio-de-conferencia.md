@@ -1,12 +1,14 @@
-# Relatório de Conferência - Novidade
+---
+description: Análise do novo modelo.
+---
 
-## Alterações no Relatório de Conferência
+# Relatório de Conferência
 
 ### 1. Contexto da Mudança
 
 Anteriormente, o relatório de conferência era disponibilizado em uma única planilha de Excel contendo duas abas. Nessas abas, os cálculos realizados pela plataforma nas modalidades XML e Sittax eram apresentados de forma mesclada.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>Imagem do relatório ANTIGO e sua mesclagem de informações.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Imagem do relatório ANTIGO e sua mesclagem de informações.</p></figcaption></figure>
 
 Esse formato gerava alta complexidade na análise, pois reunia grande volume de informações em um único local. Como consequência, usuários frequentemente precisavam realizar diversas manipulações manuais na planilha para conseguir visualizar apenas os dados relevantes para sua conferência.
 
@@ -40,13 +42,13 @@ A separação clara das informações evita ambiguidades, melhora a legibilidade
 
 O novo relatório passa a priorizar a clareza da conferência, separando as informações por tipo de apuração e permitindo melhor rastreabilidade dos valores.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.1 Apuração Sittax
 
 Nesta seção, são apresentadas todas as informações relacionadas à emissão das notas fiscais com base na apuração realizada pelo Sittax.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Inclui:
 
@@ -72,7 +74,7 @@ A principal melhoria está na organização e detalhamento dessas informações.
 
 A Apuração XML apresenta o detalhamento completo dos cálculos realizados a partir dos dados da própria XML.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Essa seção permite:
 
@@ -88,7 +90,7 @@ Mesmo sendo um relatório de conferência, a estrutura permite validações prof
 
 Foi implementada a visualização não apenas da coluna com o valor da nota, mas também da base de cálculo vinculada a ela.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Com isso, torna-se possível identificar com maior clareza:
 
@@ -104,7 +106,7 @@ Essa melhoria permite, por exemplo, identificar produtos com devoluções parcia
 
 Nesta seção, os dados são consolidados para facilitar a análise geral da tributação.
 
-<figure><img src=".gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 
 São apresentados os seguintes agrupamentos:
 
@@ -127,7 +129,7 @@ Adicionalmente, são listados os NCMs de devolução, contribuindo para configur
 
 #### 4.5 Resumo por CFOP (Sittax e XML)
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Apresenta a distribuição do faturamento por CFOP.
 
@@ -143,7 +145,7 @@ Essa visão simplifica auditorias rápidas e validações operacionais.
 
 #### 4.5 Notas Não Calculadas
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Seção dedicada às notas que não foram calculadas na operação.
 
@@ -167,7 +169,7 @@ Essa informação é importante para:
 
 Uma das formas mais funcionais de realizar auditoria dos produtos, é realizando a redução dos produtos sendo visualizados na plataforma. O relatório de conferência trás os produtos por incidência, ou seja, um produto vendido 100 vezes terá 100 linhas repetidas referente às suas apurações. Dessa forma, podemos usar o próprio excel para evidenciar de forma melhor uma Auditoria dos Produtos:
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 1. Selecione todos as linhas e colunas do relatório;
 2. Vá em DADOS;
@@ -205,13 +207,13 @@ A comparação pode ser feita de forma prática utilizando filtros na planilha.
 
 Em seguida, ao filtrar a coluna **Tipo da Tributação do ICMS** para exibir apenas registros preenchidos como TRIBUTADO, torna-se possível identificar quais produtos sofreram alterações pelo Sittax.
 
-<figure><img src=".gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
 O mesmo raciocínio se aplica ao PIS/COFINS: ao cruzar o CST com a Base Legal, é possível identificar o tratamento tributário. Quando há Base Legal preenchida, o produto é classificado como MONOFÁSICO; quando não há, ele é considerado TRIBUTADO.
 
 Nesse caso temos um produto com CST 99 (que é interpretado naturalmente como um produto tributado) mas que possui uma Base Legal identificada pela Sittax, definindo que esse produto na verdade deveria ser Monofásico de PIS/COFINS.
 
-<figure><img src=".gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

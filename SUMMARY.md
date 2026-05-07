@@ -2,7 +2,9 @@
 
 * [INTRODUÇÃO A CENTRAL DE AJUDA](README.md)
 
-## BASE TÉCNICA
+## Sittax Simples
+
+## Base Técnica
 
 * [AUTENTICAÇÃO](base-tecnica/autenticacao/README.md)
   * [Página de acesso](base-tecnica/autenticacao/pagina-de-acesso.md)
@@ -33,6 +35,8 @@
   * [Documentos Fiscais](base-tecnica/importacao/documentos-fiscais.md)
   * [Nota Fiscal de Entrada](base-tecnica/importacao/nota-fiscal-de-entrada.md)
   * [Nota Fiscal de Saída](base-tecnica/importacao/nota-fiscal-de-saida.md)
+  * [Integração/Configuração SIEG (App SIEG x NF-Monitor)](base-tecnica/importacao/integracao-configuracao-sieg-app-sieg-x-nf-monitor.md)
+  * [Integração/Configuração SIEG API](base-tecnica/importacao/integracao-configuracao-sieg-api.md)
 * [REGRAS TRIBUTÁRIAS](base-tecnica/regras-tributarias/README.md)
   * [Exceção PIS/COFINS](base-tecnica/regras-tributarias/excecao-pis-cofins.md)
   * [Exceção ICMS](base-tecnica/regras-tributarias/excecao-icms.md)
@@ -44,6 +48,7 @@
   * [Apuração por XML](base-tecnica/apuracao/apuracao-por-xml.md)
   * [Quebra de Sequência](base-tecnica/apuracao/quebra-de-sequencia.md)
   * [Gerar apuração em lote](base-tecnica/apuracao/gerar-apuracao-em-lote.md)
+  * [Relatório de Conferência](base-tecnica/apuracao/relatorio-de-conferencia.md)
 * [SPED E LIVROS FISCAIS](base-tecnica/sped-e-livros-fiscais/README.md)
   * [Livros/SPED Fiscal](base-tecnica/sped-e-livros-fiscais/livros-sped-fiscal.md)
 * [DIFAL](base-tecnica/difal/README.md)
@@ -52,24 +57,16 @@
 * [INTEGRAÇÔES](base-tecnica/integracoes/README.md)
   * [Tipo de Entrada](base-tecnica/integracoes/tipo-de-entrada.md)
   * [Gerar Arquivo](base-tecnica/integracoes/gerar-arquivo.md)
+  * [Configuração Domínio x Sittax (XML Integração)](base-tecnica/integracoes/configuracao-dominio-x-sittax-xml-integracao.md)
+  * [Configuração Domínio x Sittax (SPED Integração)](base-tecnica/integracoes/configuracao-dominio-x-sittax-sped-integracao.md)
+  * [Configuração Sittax x Questor](base-tecnica/integracoes/configuracao-sittax-x-questor.md)
 
-***
+## Sittax ST
 
-* [Relatório de Conferência - Novidade](relatorio-de-conferencia-novidade.md)
+## Base Técnica
 
-## Integrações e Configurações com Sistemas Externos
-
-* [Configuração Domínio x Sittax (XML Integração)](integracoes-e-configuracoes-com-sistemas-externos/configuracao-dominio-x-sittax-xml-integracao.md)
-* [Configuração Domínio x Sittax (SPED Integração)](integracoes-e-configuracoes-com-sistemas-externos/configuracao-dominio-x-sittax-sped-integracao.md)
-* [Configuração Sittax x Questor](integracoes-e-configuracoes-com-sistemas-externos/configuracao-sittax-x-questor.md)
-* [Integração/Configuração SIEG (App SIEG x NF-Monitor)](integracoes-e-configuracoes-com-sistemas-externos/integracao-configuracao-sieg-app-sieg-x-nf-monitor.md)
-* [Integração/Configuração SIEG API](integracoes-e-configuracoes-com-sistemas-externos/integracao-configuracao-sieg-api.md)
-
-## SITTAX ST
-
-* [Manual da Plataforma (Sittax ST)](sittax-st/manual-da-plataforma-sittax-st.md)
-
-## AGENTE I.A WhatsApp
+* [Tour Guiado de Utilização](base-tecnica-1/tour-guiado-de-utilizacao.md)
+* [Regras Tributárias ST](base-tecnica-1/regras-tributarias-st.md)
 
 ***
 
